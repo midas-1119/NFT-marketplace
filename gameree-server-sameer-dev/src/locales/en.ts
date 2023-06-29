@@ -1,0 +1,16 @@
+export const en = {
+  Success: 'Operation is completed Success',
+  Error: 'Something Went Wrong',
+  unAuthorizedMetamaskId: 'Identifier is incorrect.',
+  blocked: 'You account is blocked by admin.',
+  loggedIn: 'Logged in successfully',
+  accountCreated: 'Account created successfully',
+  passwordChanged: 'Password changed successfully',
+  onlyAdmin: 'Only admin can access this data.',
+  emailAlreadyExists: "Email already exists.",
+  usernameAlreadyExists: "Username already exists.",
+  passwordNotMatched: "Password doesn't match",
+  stripePaymentFailed: "Stripe payment failed.",
+  nftNotFound: "NFT not found!",
+  alreadySubscribed: "Your'e already subscribed to newsletter",
+};

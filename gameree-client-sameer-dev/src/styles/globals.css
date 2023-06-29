@@ -1,0 +1,465 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "EdoSZ";
+    src: url("/fonts/EdoSZ.woff2") format("woff2"),
+      url("/fonts/EdoSZ.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Montserrat-Bold";
+    src: url("/fonts/Montserrat-Bold.woff2") format("woff2"),
+      url("/fonts/Montserrat-Bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Montserrat-SemiBold";
+    src: url("/fonts/Montserrat-SemiBold.woff2") format("woff2"),
+      url("/fonts/Montserrat-SemiBold.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Montserrat-Medium";
+    src: url("/fonts/Montserrat-Medium.woff2") format("woff2"),
+      url("/fonts/Montserrat-Medium.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Montserrat-Regular";
+    src: url("/fonts/Montserrat-Regular.woff2") format("woff2"),
+      url("/fonts/Montserrat-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "TTTrailers-SemiBold";
+    src: url("/fonts/TTTrailers-DemiBold.woff2") format("woff2"),
+      url("/fonts/TTTrailers-DemiBold.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "TTTrailers-Bold";
+    src: url("/fonts/TTTrailers-Bold.woff2") format("woff2"),
+      url("/fonts/TTTrailers-Bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "TTTrailers-Medium";
+    src: url("/fonts/TTTrailers-Medium.woff2") format("woff2"),
+      url("/fonts/TTTrailers-Medium.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "TTTrailers-Regular";
+    src: url("/fonts/TTTrailers-Regular.woff2") format("woff2"),
+      url("/fonts/TTTrailers-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+}
+@layer utilities {
+  h1 {
+    @apply text-7xl md:text-[5.9rem] text-primary font-TTTrailers-Bold; /* 94.4px */
+  }
+  h2 {
+    @apply text-6xl md:text-[5.6rem] text-primary font-TTTrailers-Bold; /* 89.6px */
+  }
+  h3 {
+    @apply text-5xl  md:text-7xl text-primary font-TTTrailers-Bold; /* 72px */
+  }
+  h4 {
+    @apply text-4xl md:text-[2.8rem]  text-primary font-TTTrailers-Bold; /* 44.8px */
+  }
+  h5 {
+    @apply text-2xl xl:text-[2rem] text-primary font-TTTrailers-Bold; /* 32px */
+  }
+  h6 {
+    @apply text-xl  xl:text-2xl text-primary font-TTTrailers-Bold; /*24px */
+  }
+  p {
+    @apply text-base text-secondary font-Montserrat-Regular;
+  }
+  .container {
+    @apply px-4 sm:px-12 md:px-20 xl:px-32 2xl:px-[12.188rem] max-w-[1920px] mx-auto;
+  }
+  .shadows {
+    @apply shadow-[0px_2px_0px_4px_black];
+  }
+  .Headings {
+    @apply text-7xl lg:text-[6rem] xl:text-[7.5rem] text-primary font-TTTrailers-Bold;
+  }
+}
+
+@media screen and (max-width: 1760px) {
+  html {
+    font-size: 90%;
+  }
+}
+@media screen and (max-width: 1536px) {
+  html {
+    font-size: 80%;
+  }
+}
+@layer components {
+  .card {
+    background: linear-gradient(
+      155.14deg,
+      rgba(255, 255, 255, 0) -2.13%,
+      rgba(255, 255, 255, 0.09) 136.58%
+    );
+    filter: drop-shadow(0px 4px 49px rgba(0, 7, 72, 0.12));
+    backdrop-filter: blur(12.5px);
+    border-radius: 20px;
+  }
+  .bd {
+    border: 1px solid red;
+  }
+}
+
+.gradient {
+  background: linear-gradient(90deg, #ee5c37 1.97%, #fcd64b 100%);
+}
+.stripeBtnGradient {
+  background: linear-gradient(90deg, #6339b8 1.97%, #55d3fe 100%);
+}
+.rangeslider__handle-tooltip {
+  width: auto !important;
+  padding: 0 1rem !important;
+}
+.rangeslider-horizontal .rangeslider__fill {
+  background-color: #8264e2 !important;
+}
+.bgimg {
+  transform: rotatex(180deg);
+}
+.Bg {
+  background: #00000a url("/assets/images/bg.svg") no-repeat 0 0 / 100% auto;
+}
+.main {
+  background: url("/assets/images/gamery/main.jpg");
+  background-size: 100% 100%;
+}
+.BtnBoxShadow {
+  box-shadow: 0px 2px 0px 4px #8264e2;
+}
+
+.AtGradient {
+  background-image: linear-gradient(to top left, #65d7db, #e265bf);
+  padding: 2px;
+}
+
+.AtBoxInner {
+  background: #2c2f50;
+}
+.AtCardGradient {
+  background-image: linear-gradient(to top left, #65d7db, #e265bf);
+  border-radius: 20px;
+}
+
+.AtBoxInner {
+  background: #2c2f50;
+  border-radius: 20px;
+}
+.DashboardGradient {
+  background-image: linear-gradient(to top left, #ffffff, #8264e2);
+  border-radius: 20px;
+}
+.AtGradient1 {
+  background-image: linear-gradient(to top left, #64e2e2, #8264e2);
+
+  padding: 2px;
+}
+.AtBoxInner {
+  background: #2c2f50;
+}
+.AtCardGradient {
+  background-image: linear-gradient(to top left, #65d7db, #e265bf);
+  border-radius: 20px;
+}
+.AtStroke {
+  color: transparent;
+  -webkit-text-stroke-width: 2.5px;
+  -webkit-text-stroke-color: white;
+}
+.timeAuctiondiv {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.25) 100%
+  );
+  /* border: 1px solid rgba(255, 255, 255, 0.15); */
+  filter: drop-shadow(0px 10px 20px rgba(0, 0, 0, 0.1));
+  backdrop-filter: blur(7.5px);
+  border-radius: 0px 0px 16px 16px;
+}
+.Atroyalitycheck input[type="checkbox"] {
+  display: none;
+}
+
+.Atroyalitycheck input[type="checkbox"] + label {
+  width: 61px;
+
+  height: 30px;
+
+  display: block;
+
+  cursor: pointer;
+
+  background: #eee;
+
+  border-radius: 30px;
+
+  position: relative;
+}
+
+.myslide .swiper-button-next:after {
+  content: url("/assets/images/arrow-right.svg");
+
+  font-size: 1.8rem;
+}
+.myslide .swiper-button-prev:after {
+  content: url("/assets/images/arrow-left.svg");
+  font-size: 1.8rem;
+}
+
+.Atsearchresultholder::-webkit-scrollbar {
+  display: none;
+}
+.Atroyalitycheck input[type="checkbox"]:checked + label {
+  background: #8264e2;
+}
+
+.Atroyalitycheck input[type="checkbox"] + label:after {
+  left: 8px;
+
+  top: 50%;
+
+  content: "";
+
+  width: 20px;
+
+  height: 20px;
+
+  background: #eee;
+
+  position: absolute;
+
+  border-radius: 50%;
+
+  -webkit-transform: translateY(-50%);
+
+  -moz-transform: translateY(-50%);
+
+  -ms-transform: translateY(-50%);
+
+  -o-transform: translateY(-50%);
+
+  transform: translateY(-50%);
+
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+.Atroyalitycheck input[type="checkbox"]:checked + label:after {
+  right: 8px;
+
+  left: auto;
+
+  background: #ffff;
+}
+
+.roliteis-radius {
+  border-radius: 0px 16px 16px 0px;
+}
+.myslide .swiper-button-prev.swiper-button-disabled {
+  opacity: 9;
+}
+.myslide .swiper-button-next.swiper-button-disabled {
+  opacity: 9;
+}
+
+.myslide .swiper-button-next {
+  right: 4%;
+  background: white;
+  height: 3.688rem;
+  width: 3.688rem;
+  margin-top: 40px;
+  border-radius: 50%;
+  border: 1px solid #5e5ed2;
+}
+.myslide .swiper-button-prev {
+  left: 4%;
+  margin-top: 40px;
+  background: white;
+  height: 3.688rem;
+  width: 3.688rem;
+  border-radius: 50%;
+}
+.Modalbackgrond {
+  background: linear-gradient(
+    111.49deg,
+    rgba(255, 255, 255, 0.4) -8.95%,
+    rgba(255, 255, 255, 0.01) 114%
+  );
+  border: 5px solid #8264e2;
+  backdrop-filter: blur(20px);
+}
+
+@media screen and (max-width: 1530px) and (min-width: 768px) {
+  .myslide .swiper-button-next {
+    right: 1%;
+    background: white;
+    height: 3.813rem;
+    width: 3.813rem;
+    border-radius: 50%;
+  }
+  .myslide .swiper-button-prev {
+    left: 1%;
+    background: white;
+    height: 3.813rem;
+    width: 3.813rem;
+    border-radius: 50%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .myslide .swiper-button-next {
+    display: none;
+  }
+  .myslide .swiper-button-prev {
+    display: none;
+  }
+}
+.sidebar_2 {
+  background-color: rgba(35, 55, 75, 0.9);
+  color: #fff;
+  padding: 6px 12px;
+  font-family: monospace;
+  z-index: 1;
+  position: absolute;
+  margin-left: 2px;
+  margin-top: 50px;
+  border-radius: 6px;
+}
+.sidebar {
+  background-color: rgba(35, 55, 75, 0.9);
+  color: #fff;
+  padding: 6px 12px;
+  font-family: monospace;
+  z-index: 1;
+  position: absolute;
+  margin-left: 2px;
+  margin-top: 10px;
+  border-radius: 6px;
+}
+.mapboxgl-ctrl-profile img {
+  height: 20px !important;
+  width: 20px !important;
+  margin: auto !important;
+}
+.css-yk16xz-control {
+  min-height: 60px !important;
+  height: 60px !important;
+  border-radius: 10px !important;
+}
+.css-2613qy-menue {
+  position: relative !important;
+  max-height: 40rem !important;
+}
+
+.vimeo-video-container {
+  padding-top: 100%;
+  height: 0px;
+  position: relative;
+}
+
+.vimeo-video {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.marker {
+  border: none;
+  cursor: pointer;
+  height: 56px;
+  width: 56px;
+  background-image: url("/assets/images/mapbox-icon.png");
+}
+.rt-loginsocialicons li a {
+  width: 80px;
+  height: 80px;
+  display: block;
+  font-size: 35px;
+  line-height: 80px;
+  text-align: center;
+  border-radius: 16px;
+  border: 1px solid #fff;
+  -webkit-transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+  -ms-transition: all 300ms ease-in-out;
+  -o-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+}
+
+.mapboxgl-ctrl-group {
+  display: flex;
+  flex-direction: column;
+  background: transparent;
+  box-shadow: none !important;
+  background-color: transparent !important;
+  gap: 10px;
+}
+
+.mapboxgl-ctrl-group button {
+  @apply !text-black hover:!text-white !shadows hover:!shadows active:!shadows focus:!shadows !bg-white !relative !rounded-full !w-16 !h-16  !flex !items-center !justify-center !cursor-pointer hover:!scale-105 !transition-all !duration-300 !ease-in-out;
+}
+
+.mapboxgl-ctrl-geocoder {
+  /* @apply rounded-3xl */
+}
+.mapboxgl-ctrl-logo {
+  @apply !hidden;
+}
+.mapboxgl-ctrl-attrib-inner {
+  @apply !hidden;
+}
+.mapboxgl-ctrl-attrib {
+  @apply !hidden;
+}
+
+.tooltip-mapbox {
+  position: absolute;
+  margin: 8px;
+  padding: 4px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  max-width: 300px;
+  font-size: 10px;
+  z-index: 9;
+  pointer-events: none;
+}

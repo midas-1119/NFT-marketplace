@@ -1,0 +1,12 @@
+export const USERS = 'users';
+export const MARKETPLACE = 'marketplace';
+export const ACCOUNT = 'account';
+export const ACTIVITY = 'activity';
+export const FORGET_PASSWORD = 'forget_password';
+export const LISTING = 'listings';
+export const TOKEN = 'tokens';
+export const BID = 'bids';
+export const PAYMENTS = 'payments';
+export const ASSETS = 'assets';
+export const NEWSLETTER = 'newsletter';
+export const SEND_RECIEVE_OFFERS = 'sendRecieveOffers';

@@ -1,0 +1,2537 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1571,51.5142 ]
+    },
+    "properties": {
+    "_id":"633f2e05c4dfcc98a8354901",
+    "address":"526-528 Oxford St, London W1C 1LW, UK",
+    "area":100,
+    "id":"poi.1194000911941",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288723/NFT-%20Buildings-1/NFT_117_526-528_Oxford_St_London_W1C_1LW_UK_hgtnts.jpg",
+    "image":"",
+    "incAddress":"[\"13 Bryanston St, London W1H 7BY, UK\",\"21 Bryanston St, London W1H 7AB, UK\",\"11 Bryanston St, London W1H 7AB, UK\",\"7 Bryanston St, London W1H 7EA, UK\",\"The Gym Way, 21 Bryanston Street, London W1H 7AB, UK\",\"15 Bryanston St, London W1H 7BD, UK\",\"21 Bryanston St, London W1H 7PR, UK\",\"55 Bryanston St, London W1H 7BY, UK\",\"21 Bryanston St, London W1H 7EH, UK\",\"Oxford Street (West) Car Park, 21 Bryanston St, London W1H 7AB, UK\",\"508-520 Oxford St, London W1C 1NB, UK\",\"526-528 Oxford St, London W1C 1LW, UK\",\"532-536 Oxford St, London W1C 1LR, UK\"]",
+    "ownerAddress":"0xf0b07ce95c92d2f983fe90bef296afff95986d80",
+    "ownerId":"637efc5a77164e9121688ce0",
+    "price":0.025,
+    "sequence":30,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.157,51.5139 ]
+    },
+    "properties": {
+    "_id":"633f2eb8c4dfcc98a8354903",
+    "address":"451 Oxford St, London W1H 7AB, UK",
+    "area":90,
+    "id":"poi.575525627251",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288674/NFT-%20Buildings-1/NFT_59_Self_Ridges_Oxford_Street_London_x48ssa.jpg",
+    "image":"",
+    "incAddress":"[\"451 Oxford St, London W1H 7AB, UK\",\"526 Oxford St, Marble Arch, London W1C 1LW, UK\",\"532-534 Oxford St, London W1C 1LR, UK\",\"12 Old Quebec St, London W1H 7AF, UK\",\"7 Bryanston St, London W1H 7EA, UK\",\"The Gym Way, 21 Bryanston Street, London W1H 7AB, UK\",\"16 Old Quebec St, London W1H 7AF, UK\",\"The City Of Quebec, 12 Old Quebec St, London W1H 7AF, UK\",\"530 Oxford St, London W1H 7AB, UK\",\"520 Oxford St, London W1C 1NX, UK\",\"Portman Street Selfridges (Stop M), London W1H 6DZ, UK\",\"55 Bryanston St, London W1H 6DZ, UK\",\"22 Portman St, London W1H 7BG, UK\",\"55 Bryanston St, London W1H 7BY, UK\",\"13 Bryanston St, London W1H 7BY, UK\",\"6 Seymour St, London W1H 5BT, UK\",\"9 Bryanston St, London W1H 6DZ, UK\",\"520 Oxford St, London W1C 2QQ, UK\",\"21 Bryanston St, London W1H 7AB, UK\",\"508-520 Oxford St, London W1C 1NB, UK\",\"532-536 Oxford St, London W1C 1LR, UK\",\"532 Oxford St, London W1H 7AB, UK\",\"522 Oxford St, London W1C 1LL, UK\",\"Marble Arch (Stop K), London W1C 2QL, UK\",\"524 Oxford St, London W1C 1LN, UK\",\"520 Oxford St, Marble Arch, London W1C 2QQ, UK\"]",
+    "ownerAddress":"0xf0b07ce95c92d2f983fe90bef296afff95986d80",
+    "ownerId":"637efc5a77164e9121688ce0",
+    "price":0.025,
+    "sequence":19,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1571,51.5132 ]
+    },
+    "properties": {
+    "_id":"633f2f34c4dfcc98a8354905",
+    "address":"523 Oxford St, London W1C 2QJ, UK",
+    "area":90,
+    "id":"poi.592705539743",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288694/NFT-%20Buildings-1/NFT_118_521_Oxford_St_London_W1C_2QJ_UK_tqlsfv.jpg",
+    "image":"",
+    "incAddress":"[\"521 Oxford St, London W1C 2QJ, UK\",\"523 Oxford St, London W1C 2QJ, UK\",\"533 Oxford St, London W1C 2QL, UK\",\"527 Oxford St, London W1C 2QL, UK\",\"Hereford House, 66 N Row, London W1K 7DE, UK\",\"5th Floor, 64 N Row, London W1K 7DA, UK\",\"66-61 N Row, London W1K 7DE, UK\",\"Marble Arch Station (Stop P), London W1C 2QW, UK\"]",
+    "ownerAddress":"0xd508b6f9b524aad423feee2404d6b07742fa9d81",
+    "ownerId":"6210801a9011620d021e32b3",
+    "price":0.025,
+    "sequence":33,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1564,51.5133 ]
+    },
+    "properties": {
+    "_id":"633f2fb1c4dfcc98a8354907",
+    "address":"499-517 Oxford St, London W1C 2QQ, UK",
+    "area":90,
+    "id":"poi.77309419900",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1669377388/NFT-%20Buildings-1/NFT_34_Primark_14-28_Oxford_Street_Fitzrovia_London_England_W1D_1AP_United_Kingdom_brvojl.jpg",
+    "image":"",
+    "incAddress":"[\"New Hereford House, 129 Park St, London W1K 7JB, UK\",\"Marble Arch (Stop O), London W1C 2QJ, UK\",\"130 Park St, London W1K 7JB, UK\",\"499-517 Oxford St, London W1K 7JB, UK\",\"521 Oxford St, London W1C 2QJ, UK\",\"5th Floor, 64 N Row, London W1K 7DA, UK\",\"499-517 Oxford St, London W1C 2QQ, UK\",\"117 Park St, London W1K 7JA, UK\",\"121 - 125 Park St, London W1K 7JA, UK\",\"121-125 Park St, London W1K 7JA, UK\",\"64 N Row, London W1K 7DA, UK\",\"Hereford House, 64 N Row, London W1K 7DA, UK\",\"Valad Property Group, 64 N Row, London W1K 7DG, UK\",\"66-61 N Row, London W1K 7DE, UK\",\"115 Park St, London W1K 7AP, UK\",\"Valad Property Group, 64 N Row, London W1K 7DA, UK\",\"121 Park St, London W1K 7JA, UK\",\"61 N Row, London W1K 7DA, UK\",\"499 - 517 Oxford St, London W1K 7DA, UK\"]",
+    "ownerAddress":"0x930f91f777cb09fe38f23da3eb941e68f5819a33",
+    "ownerId":"637e6ff677164e9121688c21",
+    "price":0.025,
+    "sequence":66,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1556,51.5141 ]
+    },
+    "properties": {
+    "_id":"633f2ffac4dfcc98a8354909",
+    "address":"494-496 Oxford St, London W1C 1LG, UK",
+    "area":90,
+    "id":"poi.1254130472596",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288697/NFT-%20Buildings-1/NFT_119_494-496_Oxford_St_London_W1C_1LG_United_Kingdom_zfad8r.jpg",
+    "image":"",
+    "incAddress":"[\"474 Oxford St, London W1C 1LA, UK\",\"3 Portman Mews S, London W1H 6AY, UK\",\"2 Portman St, London W1H 6DU, UK\",\"Portman House, 2 Portman St, London W1C 1LF, UK\",\"6 Seymour St, London W1H 5BT, UK\",\"25 N Row, London W1K 6DJ, UK\",\"494-496 Oxford St, London W1C 1LG, UK\",\"486 Oxford St, London W1C 1NA, UK\",\"498-500 Oxford St, London W1C 1LQ, UK\",\"490 Oxford St, London W1C 1LF, UK\",\"500-502 Oxford St, London W1C 1HG, UK\",\"488 Oxford St, London W1C 1LE, UK\"]",
+    "ownerAddress":"0x930f91f777cb09fe38f23da3eb941e68f5819a33",
+    "ownerId":"637f147977164e9121688d05",
+    "price":0.025,
+    "sequence":39,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1548,51.5135 ]
+    },
+    "properties": {
+    "_id":"633f345ac4dfcc98a835490b",
+    "address":"465 Oxford St, London W1C 2DZ, UK",
+    "area":90,
+    "id":"address.7790199344448130",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1669376189/NFT-%20Buildings-1/465_tdlf1j.jpg",
+    "image":"",
+    "incAddress":"[\"453 Oxford St, London W1K 6WD, UK\",\"469 Oxford St, London W1C 2AU, UK\",\"473 Oxford St, London W1C 2AU, UK\",\"485 Oxford St, London W1C 1NA, UK\",\"489 Oxford St, London W1C 2AU, UK\",\"493 Oxford St, London W1C 2AU, UK\",\"Marble Arch Park House, 116 Park St, London W1K 6AF, UK\",\"116 Park St, London W1K 6AF, UK\",\"471 Oxford St, London W1C 2QP, UK\",\"465 Oxford St, London W1C 2DZ, UK\",\"455 Oxford St, London W1K 6WD, UK\",\"47 N Row, London W1K 6DG, UK\",\"Marble Arch Park House, 116 Park St, London W1K 6SS, UK\",\"57 N Row, London W1K 6AF, UK\",\"99 N Row, London W1K 6WD, UK\",\"33 N Row, London W1K 6DE, UK\",\"32 N Row, London W1K 6DD, UK\",\"116 Park St, London W1K 6SS, UK\",\"479 Oxford St, London W1C 1NA, UK\",\"25 N Row, London W1K 6DJ, UK\",\"18s N Audley St, London W1K 6WA, UK\"]",
+    "ownerAddress":"0x51e891cd70f8ef234602ccead164aec44eba4a06",
+    "ownerId":"6382447e77164e9121688ed2",
+    "price":0.025,
+    "sequence":67,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1528,51.5146 ]
+    },
+    "properties": {
+    "_id":"633f34eec4dfcc98a835490d",
+    "address":"300 Oxford St, London W1A 1AB, UK",
+    "area":90,
+    "id":"poi.17179932727",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288683/NFT-%20Buildings-1/NFT_114_London_W1C_2PG_United_Kingdom_zpj77m.jpg",
+    "image":"",
+    "incAddress":"[\"Selfridges (Stop BC), London W1C 2PG, UK\",\"Selfridges (Stop BD), London W1K 6TT, UK\",\"400 Oxford St, London W1A 1AB, UK\",\"Selfridges, 400 Oxford St, London W1A 1AB, UK\",\"422 Oxford St, London W1C 2PS, UK\",\"Floor 3, 400 Oxford St, London W1A 1AB, UK\",\"10 Orchard St, London W1C 1AP, UK\",\"Selfridges, 4th Floor, 400 Oxford St, London W1A 1AB, UK\",\"Greater, Floor 2, 400 Oxford St, London W1A 1AB, UK\",\"3rd floor Selfridges & Co, 400 Oxford St, London W1A 1AB, UK\",\"Orchard Street / Selfridges (Stop BA), London W1H 6HJ, UK\",\"6JS, 1 Orchard St, London W1H 6HJ, UK\",\"300 Oxford St, London W1A 1AB, UK\",\"23 A41, London W1U 1QS, UK\",\"Spirit Dept Selfridges, Oxford Street, London W1A 1AB, UK\",\"40 Duke St, London W1U 1AT, UK\",\"2nd Floor, Selfridges, 400 Oxford St, London W1A 1AB, UK\",\"103 Duke St, London W1U 1QS, UK\",\"10 Duke St, London W1U 3RW, UK\",\"44 Duke St, London W1U 1LH, UK\",\"41 Duke St, London W1U 1LP, UK\",\"Selfridges, Oxford St, London W1U 1AT, UK\",\"2nd, Selfridges, 400 Oxford St, London W1A 1AB, UK\",\"Selfridges, Oxford St, London W1A 1AB, UK\",\"GR7W+MG London, UK\",\"400 Oxford St, London W1C 1JS, UK\",\"Selfridges (Stop BB), London W1C 2PN, UK\",\"Selfridges, London W1C, UK\",\"394 Oxford St, London W1C 1JT, UK\",\"400, Selfridges Donna Shoes 2nd, Shoe Galleries, Oxford St, London W1A 1AB, UK\",\"Orchard Street Selfridges, London W1H, UK\",\"8 Orchard St, London W1C 1AP, UK\",\"GR7W+MF London, UK\"]",
+    "ownerAddress":"0xf0b07ce95c92d2f983fe90bef296afff95986d80",
+    "ownerId":"637f1dc777164e9121688d0d",
+    "price":0.025,
+    "sequence":35,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1536,51.5137 ]
+    },
+    "properties": {
+    "_id":"633f355cc4dfcc98a835490f",
+    "address":"449 Oxford St, London W1C 2PR, UK",
+    "area":90,
+    "id":"address.5779636763336280",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672942164/NFT-%20Buildings-1/449_Oxford_St_London_W1C_2PR_UK_ft26g4.jpg",
+    "image":"",
+    "incAddress":"[\"449 Oxford St, London W1C 2PR, UK\",\"451 Oxford Street W1C 2PT, 451 Oxford St, London W1K 6WA, UK\",\"21 N Audley St, London W1K 6WA, UK\"]",
+    "ownerAddress":"0xd508b6f9b524aad423feee2404d6b07742fa9d81",
+    "ownerId":"6210801a9011620d021e32b3",
+    "price":0.025,
+    "sequence":68,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1532,51.5138 ]
+    },
+    "properties": {
+    "_id":"633f377ec4dfcc98a8354915",
+    "address":"447 Oxford St, London W1C 2PR, UK",
+    "area":90,
+    "id":"poi.970662653899",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672944149/NFT-%20Buildings-1/447_Oxford_St_London_W1C_2PR_UK_qjvpwu.jpg",
+    "image":"",
+    "incAddress":"[\"445 Oxford St, London W1C 2PP, UK\",\"443 Oxford St, London W1C 2PP, UK\",\"447 Oxford St, London W1C 2PR, UK\",\"38 N Row, London W1C 2PR, UK\",\"36 N Row, London W1K 6DL, UK\",\"439-441 Oxford St, London W1C 2PN, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":69,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.153,51.5138 ]
+    },
+    "properties": {
+    "_id":"633f379fc4dfcc98a8354917",
+    "address":"439 Oxford St, London W1C 2PN, UK",
+    "area":90,
+    "id":"poi.970662653899",
+    "image":"",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672944149/NFT-%20Buildings-1/439_Oxford_St_London_W1C_2PN_UK_shpvdb.jpg",
+    "incAddress":"[\"439 Oxford St, London W1C 2PN, UK\",\"443 Oxford St, London W1C 2PP, UK\",\"439-441 Oxford St, London W1C 2PN, UK\"]",
+    "ownerAddress":"0xd508b6f9b524aad423feee2404d6b07742fa9d81",
+    "ownerId":"63889a62efc7c977b0c12c06",
+    "price":0.025,
+    "sequence":70,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1527,51.5139 ]
+    },
+    "properties": {
+    "_id":"633f37e5c4dfcc98a835491b",
+    "address":"431-433 Oxford St, London W1C 2PL, UK",
+    "area":90,
+    "id":"address.1600656454367130",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672944163/NFT-%20Buildings-1/431-433_Oxford_St_London_W1C_2PL_UK_bopku1.jpg",
+    "image":"",
+    "incAddress":"[\"35C N Row, London W1K 6DH, UK\",\"431-433 Oxford St, London W1C 2PL, UK\",\"431A Oxford St, London W1C 2PH, UK\",\"435-437 Oxford St, London W1C 2PL, UK\",\"431 Oxford St, London W1C 2PH, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":71,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1521,51.5138 ]
+    },
+    "properties": {
+    "_id":"633f38b4c4dfcc98a835491d",
+    "address":"427 Oxford St, London W1C 2PH, UK",
+    "area":90,
+    "id":"address.4812263864442614",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288725/NFT-%20Buildings-1/NFT_81_425_Oxford_Street_London_mdax8d.jpg",
+    "image":"",
+    "incAddress":"[\"20 Balderton St, London W1K 6TL, UK\",\"427 Oxford St, London W1C 2PH, UK\",\"425 Oxford St, London W1C 2PH, UK\",\"423 Oxford St, London W1C 2PH, UK\",\"421 Oxford St, London W1C 2PQ, UK\",\"3 Lumley St, London W1K 6TT, UK\",\"5 Brown Hart Gardens, London W1K 6TD, UK\",\"429 Oxford St, London W1C 2PH, UK\",\"8th Floor, 20 Balderton St, London W1K 6TL, UK\"]",
+    "ownerAddress":"0x930f91f777cb09fe38f23da3eb941e68f5819a33",
+    "ownerId":"637f147977164e9121688d05",
+    "price":0.025,
+    "sequence":18,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1521,51.5134 ]
+    },
+    "properties": {
+    "_id":"633f38f9c4dfcc98a835491f",
+    "address":"128 East Ln, London W1K 6TG, UK",
+    "area":90,
+    "id":"address.766590432731058",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672944183/NFT-%20Buildings-1/128_East_Ln_London_W1K_6TG_UK_tlpjtr.png",
+    "image":"",
+    "incAddress":"[\"5 Brown Hart Gardens, London W1K 6TD, UK\",\"128 East Ln, London W1K 6TG, UK\",\"Natureworks, 16 a Balderton St, London W1K 6TN, UK\",\"21 Brown Hart Gardens, London W1K 6TD, UK\"]",
+    "ownerAddress":"0xe891a6c341fdef3d09226a4c0e2d477e5ebf8600",
+    "ownerId":"638f712294406497fca0d240",
+    "price":0.025,
+    "sequence":72,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1518,51.5134 ]
+    },
+    "properties": {
+    "_id":"633f391bc4dfcc98a8354921",
+    "address":"5 Brown Hart Gardens, London W1K 6TD, UK",
+    "area":90,
+    "id":"address.4812263864442614",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672944145/NFT-%20Buildings-1/5_Brown_Hart_Gardens_London_W1K_6TD_UK_fpqhzd.jpg",
+    "image":"",
+    "incAddress":"[\"5 Brown Hart Gardens, London W1K 6TD, UK\",\"15 Brown Hart Gardens, London W1K 6TD, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":73,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1515,51.5135 ]
+    },
+    "properties": {
+    "_id":"633f3954c4dfcc98a8354923",
+    "address":"68 Duke St, London W1K 6JU, UK",
+    "area":90,
+    "id":"address.4812263864442614",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672944145/NFT-%20Buildings-1/68_Duke_St_London_W1K_6JU_UK_hsszsx.jpg",
+    "image":"",
+    "incAddress":"[\"3 Lumley St, London W1K 6TT, UK\",\"1 Lumley St, London W1K 6TT, UK\",\"5 Brown Hart Gardens, London W1K 6TD, UK\",\"15 Brown Hart Gardens, London W1K 6TD, UK\",\"70 Duke St, London W1K 6JX, UK\",\"Brown Hart Gardens, Brown Hart Gardens, London W1K 6WP, UK\",\"58 Duke St, London W1K 6JW, UK\",\"68 Duke St, London W1K 6JU, UK\",\"74 Duke St, London W1K 6JZ, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":74,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1516,51.5139 ]
+    },
+    "properties": {
+    "_id":"633f398fc4dfcc98a8354925",
+    "address":"419 Oxford St, London W1C 2PG, UK",
+    "area":90,
+    "id":"address.4812263864442614",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288727/NFT-%20Buildings-1/NFT_98_419_Oxford_Street_London_ed5unk.jpg",
+    "image":"",
+    "incAddress":"[\"415 Oxford St, London W1C 2PG, UK\",\"419 Oxford St, London W1C 2PG, UK\",\"1 Lumley St, London W1K 6TT, UK\",\"Selfridges (Stop BU), London W1C 2PH, UK\",\"4th floor, 1 Lumley St, London W1K 6TT, UK\",\"50 Duke St, London W1K 6JL, UK\",\"54 Duke St, London W1K 6JN, UK\",\"3 Lumley St, London W1K 6TT, UK\"]",
+    "ownerAddress":"0xf0b07ce95c92d2f983fe90bef296afff95986d80",
+    "ownerId":"637f1dc777164e9121688d0d",
+    "price":0.025,
+    "sequence":16,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1513,51.5136 ]
+    },
+    "properties": {
+    "_id":"633f39e1c4dfcc98a8354927",
+    "address":"70 Duke St, London W1K 6JX, UK",
+    "area":90,
+    "id":"poi.51539626203",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672944147/NFT-%20Buildings-1/70_Duke_St_London_W1K_6JX_UK_usny7v.jpg",
+    "image":"",
+    "incAddress":"[\"54 Duke St, London W1K 6JN, UK\",\"56 Duke St, London W1K 6JA, UK\",\"60 Duke St, London W1K 6JR, UK\",\"74-76 Duke St, London W1K 6JZ, UK\",\"68 Duke St, London W1K 6JU, UK\",\"64 - 66 Duke St, London W1K 6JD, UK\",\"64-66 Duke St, London W1K 6JD, UK\",\"70 Duke St, London W1K 6JX, UK\",\"68 Duke St, London W1K 6JX, UK\",\"72 Duke St, London W1K 6JY, UK\",\"74 Duke St, London W1K 6JZ, UK\",\"74 Duke St, London W1K 6JT, UK\",\"65 Duke St, London W1K 5NX, UK\",\"58 Duke St, London W1K 6JW, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":75,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1514,51.5146 ]
+    },
+    "properties": {
+    "_id":"633f3a13c4dfcc98a8354929",
+    "address":"41 Duke St, London W1U 1LP, UK",
+    "area":90,
+    "id":"poi.910533116864",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672944145/NFT-%20Buildings-1/41_Duke_St_London_W1U_1LP_UK_boemyn.jpg",
+    "image":"",
+    "incAddress":"[\"41 Duke St, London W1U 1LP, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":76,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.151,51.5144 ]
+    },
+    "properties": {
+    "_id":"633f3a71c4dfcc98a835492d",
+    "address":"390 Oxford St, London W1C 1JT, UK",
+    "area":90,
+    "id":"address.6419215210096328",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288636/NFT-%20Buildings-1/NFT_75_390_Oxford_Street_London_ppi0cu.jpg",
+    "image":"",
+    "incAddress":"[\"390 Oxford St, London W1C 1JT, UK\",\"388-396 Oxford St, London W1C 1JT, UK\",\"392 Oxford St, London W1C 1JT, UK\",\"388 Oxford St, London W1C 1JT, UK\"]",
+    "ownerAddress":"0x11b85fb218a6e78caa42d9898bcbef5f3c8b1f03",
+    "ownerId":"63937b4624245fc4640c2c77",
+    "price":0.025,
+    "sequence":15,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1509,51.5144 ]
+    },
+    "properties": {
+    "_id":"633f3aacc4dfcc98a8354931",
+    "address":"388-396 Oxford St, London W1C 1JT, UK",
+    "area":90,
+    "id":"address.6419215210096328",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949761/NFT-%20Buildings-1/388-396_Oxford_St_London_W1C_1JT_UK_antbka.jpg",
+    "image":"",
+    "incAddress":"[\"396 Oxford St, London W1C 1JT, UK\",\"388 Oxford St, London W1C 1JT, UK\",\"388-396 Oxford St, London W1C 1JT, UK\",\"386 Oxford St, London W1C 1JT, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":78,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.151,51.514 ]
+    },
+    "properties": {
+    "_id":"633f3adcc4dfcc98a8354933",
+    "address":"413 Oxford St, London W1C 2PE, UK",
+    "area":90,
+    "id":"poi.223338302995",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288726/NFT-%20Buildings-1/NFT_79_411_Oxford_Street_London_dg8clg.jpg",
+    "image":"",
+    "incAddress":"[\"411 - 413 Oxford St, London W1C 2PE, UK\",\"411 Oxford St, London W1C 2PE, UK\",\"411-413 Oxford St, London W1C 2PE, UK\",\"30 Binney St, London W1K 5BW, UK\",\"53 Duke St, London W1C 2PE, UK\",\"53 Duke St, London W1C 2PF, UK\",\"55 Duke St, London W1K 5NR, UK\",\"407-409 Oxford St, London W1C 2PD, UK\",\"409 Oxford St, London W1C 2PD, UK\",\"3rd Floor, 411-413 Oxford St, London W1C 2PE, UK\"]",
+    "ownerAddress":"0xde3f5f11289539c57b49eaf2158f607b0bd201c2",
+    "ownerId":"637e75fa460cd8b20e01ea3f",
+    "price":0.025,
+    "sequence":11,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.15,51.5141 ]
+    },
+    "properties": {
+    "_id":"633f3b0cc4dfcc98a8354935",
+    "address":"395 Oxford St, London W1C 2JY, UK",
+    "area":90,
+    "id":"address.1494334940175696",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288653/NFT-%20Buildings-1/NFT_84_395_Oxford_St_London_W1C_2JX_United_Kingdom_pw9exj.jpg",
+    "image":"",
+    "incAddress":"[\"397 Oxford St, London W1C 2JX, UK\",\"395 Oxford St, London W1C 2JY, UK\",\"3 Gilbert St, London W1K 5HN, UK\"]",
+    "ownerAddress":"0x11b85fb218a6e78caa42d9898bcbef5f3c8b1f03",
+    "ownerId":"63937b4624245fc4640c2c77",
+    "price":0.025,
+    "sequence":24,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1499,51.5141 ]
+    },
+    "properties": {
+    "_id":"633f3b2fc4dfcc98a8354937",
+    "address":"397 Oxford St, London W1C 2JX, UK",
+    "area":90,
+    "id":"address.1494334940175696",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949743/NFT-%20Buildings-1/397_Oxford_St_London_W1C_2JX_UK_acwggm.webp",
+    "image":"",
+    "incAddress":"[\"393 Oxford St, London W1C 2JU, UK\",\"395 Oxford St, London W1C 2JY, UK\",\"397 Oxford St, London W1C 2JX, UK\",\"385-389 Oxford St, London W1C 2NB, UK\",\"Bond Street Station (Stop BW), London W1C 2NB, UK\",\"389 Oxford St, London W1A 1AB, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":79,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1497,51.5141 ]
+    },
+    "properties": {
+    "_id":"633f3b7dc4dfcc98a8354939",
+    "address":"385 Oxford St, London W1A 1AB, UK",
+    "area":90,
+    "id":"poi.627065229816",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949730/NFT-%20Buildings-1/385_Oxford_St_London_W1A_1AB_UK_snpvn9.jpg",
+    "image":"",
+    "incAddress":"[\"385 Oxford St, London W1A 1AB, UK\",\"Bond Street Station (Stop BW), London W1C 2NB, UK\",\"385-389 Oxford St, London W1C 2NB, UK\",\"389 Oxford St, London W1A 1AB, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":80,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1502,51.5144 ]
+    },
+    "properties": {
+    "_id":"633f3bdac4dfcc98a835493b",
+    "address":"374 Oxford St, London W1C 1JR, UK",
+    "area":90,
+    "id":"poi.249108120010",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949789/NFT-%20Buildings-1/374_Oxford_St_London_W1C_1JR_UK_vhsral.jpg",
+    "image":"",
+    "incAddress":"[\"374 Oxford St, London W1C 1JR, UK\",\"6-8 James St, London W1U 1ED, UK\",\"372 Oxford St, London W1C 1JP, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":81,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1501,51.5144 ]
+    },
+    "properties": {
+    "_id":"633f3c08c4dfcc98a835493d",
+    "address":"372 Oxford St, London W1C 1JP, UK",
+    "area":90,
+    "id":"poi.17179882744",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949734/NFT-%20Buildings-1/372_Oxford_St_London_W1C_1JP_UK_ynqy7x.jpg",
+    "image":"",
+    "incAddress":"[\"372 Oxford St, London W1C 1JP, UK\",\"374 Oxford St, London W1C 1JR, UK\",\"368-370 Oxford St, London W1C 1JW, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":82,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.15,51.5145 ]
+    },
+    "properties": {
+    "_id":"633f3c51c4dfcc98a835493f",
+    "address":"368-370 Oxford St, London W1C 1JW, UK",
+    "area":90,
+    "id":"address.6029401149947992",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949772/NFT-%20Buildings-1/368-370_Oxford_St_London_W1C_1JW_UK_ouptd0.jpg",
+    "image":"",
+    "incAddress":"[\"368-370 Oxford St, London W1C 1JW, UK\",\"14 Gee's Ct, London W1U 1JW, UK\",\"368 Oxford St, London W1C 1JW, UK\",\"368, 370 Oxford St, London W1C 1JW, UK\",\"372 Oxford St, London W1C 1JP, UK\",\"10 Gee's Ct, London W1U 1JJ, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":83,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1498,51.5145 ]
+    },
+    "properties": {
+    "_id":"633f3c8cc4dfcc98a8354941",
+    "address":"360-366 Oxford St, London W1C 1JN, UK",
+    "area":90,
+    "id":"address.6029401149947992",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288728/NFT-%20Buildings-1/NFT_30_360-366_Oxford_St_London_W1C_1JN_UK_cst5bv.jpg",
+    "image":"",
+    "incAddress":"[\"360-366 Oxford St, London W1C 1JN, UK\",\"368, 370 Oxford St, London W1C 1JW, UK\",\"366 Oxford St, London W1C 1JN, UK\",\"4 Gee's Ct, London W1U 1JD, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":25,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1489,51.5147 ]
+    },
+    "properties": {
+    "_id":"633f3cf3c4dfcc98a8354945",
+    "address":"1 Stratford Pl, London W1S 4RN, UK",
+    "area":90,
+    "id":"poi.609885391823",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949875/NFT-%20Buildings-1/1_Stratford_Pl_London_W1S_4RN_UK_iudtpo.jpg",
+    "image":"",
+    "incAddress":"[\"Tanzania High Commission, 3 Stratford Pl, London W1C 1AS, UK\",\"2 Stratford Pl, London W1U, UK\",\"1 Stratford Pl, London W1S 4RN, UK\",\"3 Stratford Pl, London W1C 1AS, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":84,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1489,51.5147 ]
+    },
+    "properties": {
+    "_id":"633f3d1cc4dfcc98a8354947",
+    "address":"354-358 Oxford St, London W1C 1JJ, UK",
+    "area":90,
+    "id":"poi.609885391823",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949732/NFT-%20Buildings-1/354-358_Oxford_St_London_W1C_1JJ_UK_jsd8lc.jpg",
+    "image":"",
+    "incAddress":"[\"1 Stratford Pl, London W1S 4RN, UK\",\"2 Stratford Pl, London W1U, UK\",\"354-358 Oxford St, London W1C 1JJ, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":85,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1484,51.5148 ]
+    },
+    "properties": {
+    "_id":"633f3d82c4dfcc98a835494b",
+    "address":"350-352 Oxford St, London W1C 1JH, UK",
+    "area":90,
+    "id":"poi.60129591623",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288663/NFT-%20Buildings-1/NFT_111_352_Oxford_St_London_W1C_1JH_UK_Disney_on_ground_flour_oqenrg.jpg",
+    "image":"",
+    "incAddress":"[\"350 Oxford St, London W1C 1BY, UK\",\"350-352 Oxford St, London W1C 1JH, UK\",\"25 Marylebone Ln, London W1C 1BY, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":26,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1488,51.5143 ]
+    },
+    "properties": {
+    "_id":"633f3db6c4dfcc98a835494d",
+    "address":"373 Oxford St, London W1C 2JR, UK",
+    "area":90,
+    "id":"poi.730144521231",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288688/NFT-%20Buildings-1/NFT_28_369_Oxford_St_London_W1C_2JW_United_Kingdom_yvxgvt.jpg",
+    "image":"",
+    "incAddress":"[\"373 Oxford St, London W1C 2JR, UK\",\"369 Oxford St, London W1C 2JW, UK\",\"34 S Molton St, London W1K 5RG, UK\",\"35 S Molton St, London W1K 5RQ, UK\",\"36 S Molton St, London W1K 5RH, UK\",\"37 S Molton St, London W1K, UK\",\"Sponsorship House, 34 S Molton St, London W1K 5RG, UK\"]",
+    "ownerAddress":"0xde3f5f11289539c57b49eaf2158f607b0bd201c2",
+    "ownerId":"637e75fa460cd8b20e01ea3f",
+    "price":0.025,
+    "sequence":27,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1484,51.5142 ]
+    },
+    "properties": {
+    "_id":"633f3dfec4dfcc98a835494f",
+    "address":"\"363-367 Oxford St, London W1C 2JW, UK\"",
+    "area":90,
+    "id":"poi.1133871390366",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288657/NFT-%20Buildings-1/NFT_115_363-367_Oxford_St_London_W1C_2AL_United_Kingdom_fwkdjd.jpg",
+    "image":"",
+    "incAddress":"[\"363-367 Oxford St, London W1C 2LA, UK\",\"369 Oxford St, London W1C 2JW, UK\",\"363 Oxford St, London W1C 2JN, UK\",\"361 Oxford St, London W1C 2JL, UK\",\"355-361 Oxford St, London W1C 2JJ, UK\",\"43 S Molton St, London W1K 5RS, UK\",\"42 S Molton St, London W1K 5RR, UK\",\"40 S Molton St, London W1K 5RW, UK\",\"371 Oxford St, London W1C 2JW, UK\",\"Bond Street, Underground Ltd, Oxford St, London W1R 1FE, UK\",\"37 S Molton St, London W1K, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":28,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1481,51.5142 ]
+    },
+    "properties": {
+    "_id":"633f3e31c4dfcc98a8354951",
+    "address":"355-361 Oxford St, London W1C 2JJ, UK",
+    "area":90,
+    "id":"poi.395137070546",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288630/NFT-%20Buildings-1/NFT_11_361_Oxford_Street_London_kyn0m0.jpg",
+    "image":"",
+    "incAddress":"[\"355-361 Oxford St, London W1C 2JJ, UK\",\"361 Oxford St, London W1C 2JL, UK\",\"353 Oxford St, London W1C 2JG, UK\",\"3-4 Sedley Place Arcade Units 3 And 4, London W1C 2HA, UK\",\"361 Oxford St, London W1D 2JG, UK\",\"43 S Molton St, London W1K 5RS, UK\",\"45 S Molton St, London W1K 5RU, UK\",\"47 S Molton St, London W1K 5RY, UK\",\"14 Woodstock St, London W1C 2AG, UK\",\"13 Woodstock St, London W1K, UK\",\"3-4 Sedley Pl, London W1C 2HA, UK\"]",
+    "ownerAddress":"0xf0b07ce95c92d2f983fe90bef296afff95986d80",
+    "ownerId":"637f1dc777164e9121688d0d",
+    "price":0.025,
+    "sequence":20,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1478,51.5144 ]
+    },
+    "properties": {
+    "_id":"633f3e93c4dfcc98a8354953",
+    "address":"353 Oxford St, London W1C 2JG, UK",
+    "area":90,
+    "id":"address.1703960315248796",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288633/NFT-%20Buildings-1/NFT_110_353_Oxford_St_London_W1C_2JG_United_Kingdom_vadav0.jpg",
+    "image":"",
+    "incAddress":"[\"10 Woodstock St, London W1C 2JF, UK\",\"11 Woodstock St, London W1C 2AE, UK\",\"351 Oxford St, London W1C 2JF, UK\",\"353 Oxford St, London W1C 2JG, UK\",\"3-4 Sedley Pl, London W1C 2HA, UK\",\"The Woodstock, 11 Woodstock St, London W1C 2AE, UK\",\"10 Woodstock St, London W1C 2AD, UK\"]",
+    "ownerAddress":"0xe891a6c341fdef3d09226a4c0e2d477e5ebf8600",
+    "ownerId":"63a31059c932e68e0b3775f8",
+    "price":0.025,
+    "sequence":31,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.148,51.5144 ]
+    },
+    "properties": {
+    "_id":"633f3eb3c4dfcc98a8354955",
+    "address":"351 Oxford St, London W1C 2JG, UK",
+    "area":90,
+    "id":"poi.395137070546",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288656/NFT-%20Buildings-1/NFT_32_O2_351_Oxford_St_London_England_W1C_1JG_United_Kingdom_rgrxvx.jpg",
+    "image":"",
+    "incAddress":"[\"353 Oxford St, London W1C 2JG, UK\",\"351 Oxford St, London W1C 2JF, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":32,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1478,51.5151 ]
+    },
+    "properties": {
+    "_id":"633f3ef2c4dfcc98a8354957",
+    "address":"344 Oxford St, London W1C 1JG, UK",
+    "area":90,
+    "id":"poi.214748437991",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1669741094/NFT-%20Buildings-1/344_Oxford_St_London_W1C_1JG_UK_tcyffy.jpg",
+    "image":"",
+    "incAddress":"[\"336 Oxford St, London W1C 1JG, UK\",\"63 B406, London W1G 0NB, UK\",\"59 Henrietta Pl, London W1C 1JG, UK\",\"8 Henrietta Pl, London W1G 0NB, UK\",\"340-348 Oxford St, London W1C 1JG, UK\",\"334-348 Oxford St, London W1C 1JG, UK\",\"5-7 Vere St, London W1G 0DJ, UK\",\"334-338 Oxford St, London W1C 1JG, UK\",\"342 Oxford St, London W1C 1JG, UK\",\"332 Oxford St, London W1C 1JF, UK\",\"1 Marylebone Ln, London W1C 1JG, UK\",\"344 Oxford St, London W1C 1JG, UK\"]",
+    "ownerAddress":"0xf0b07ce95c92d2f983fe90bef296afff95986d80",
+    "ownerId":"637f1dc777164e9121688d0d",
+    "price":0.025,
+    "sequence":21,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1471,51.5143 ]
+    },
+    "properties": {
+    "_id":"633f3f19c4dfcc98a8354959",
+    "address":"339 Oxford St, London W1C 2HY, UK",
+    "area":90,
+    "id":"poi.103079255585",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288640/NFT-%20Buildings-1/NFT_44_Zara_clothing_store_333_Oxford_Street_London_England_W1C_2HY_UK_pypv0e.jpg",
+    "image":"",
+    "incAddress":"[\"333 Oxford St, London W1C 2HY, UK\",\"4 Woodstock St, London W1C 2AT, UK\",\"2 Woodstock St, London W1C 2AB, UK\",\"Verve Group Ltd, 2-3 Woodstock St, London W1C 2AB, UK\",\"339 Oxford St, London W1C 2HY, UK\",\"Verve Group Ltd, 89 New Bond St, London W1S 1DA, UK\",\"339 Oxford St, London W1C 2JB, UK\",\"92 New Bond St, London W1S 1SQ, UK\",\"89 B406, London W1S 1SQ, UK\",\"92 B406, London W1K, UK\"]",
+    "ownerAddress":"0xde3f5f11289539c57b49eaf2158f607b0bd201c2",
+    "ownerId":"637e75fa460cd8b20e01ea3f",
+    "price":0.025,
+    "sequence":34,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1467,51.5149 ]
+    },
+    "properties": {
+    "_id":"633f3f3cc4dfcc98a835495b",
+    "address":"326 Oxford St, London W1C 1JB, UK",
+    "area":90,
+    "id":"poi.420906902481",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1669781631/326_Oxford_St_London_W1C_1JB_UK_xtuj8y.jpg",
+    "image":"",
+    "incAddress":"[\"332 Oxford St, London W1C 1JE, UK\",\"324 Oxford St, London W1C 1JA, UK\",\"1st Floor, 1 Vere St, London W1G 0DF, UK\",\"1 Vere St, London W1G 0DF, UK\",\"326 Oxford St, London W1C 1JB, UK\",\"323-329 Oxford St, London W1C 1JF, UK\",\"328-330 Oxford St, London W1C 1JE, UK\",\"332b Oxford St, London W1C 1JF, UK\"]",
+    "ownerAddress":"0xf0b07ce95c92d2f983fe90bef296afff95986d80",
+    "ownerId":"637f1dc777164e9121688d0d",
+    "price":0.025,
+    "sequence":23,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1469,51.5152 ]
+    },
+    "properties": {
+    "_id":"633f3f5cc4dfcc98a835495d",
+    "address":"1 rainbow walk Oxford Street London",
+    "area":90,
+    "id":"address.3086446103567778",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288658/NFT-%20Buildings-1/NFT_120_1_Chapel_Pl_London_W1C_1JB_UK_elzhbi.jpg",
+    "image":"",
+    "incAddress":"[\"3 Chapel Pl, London W1G 0BG, UK\",\"1 Chapel Pl, London W1G 0BG, UK\",\"5-7 Vere St, London W1G 0DJ, UK\",\"5 Vere St, London W1G 0DJ, UK\",\"9 Chapel Pl, London W1C 1HF, UK\",\"3, 4 Vere St, London W1G 0DH, UK\",\"1 Chapel Pl, London W1G 0DJ, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":37,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.147,51.515 ]
+    },
+    "properties": {
+    "_id":"633f3f9ac4dfcc98a835495f",
+    "address":"332 Oxford St, London, UK",
+    "area":90,
+    "id":"poi.489626289905",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288639/NFT-%20Buildings-1/NFT_41_Sunglass_Hut_332_Oxford_Street_London_England_W1C_1JE_United_Kingdom_sz2ayf.jpg",
+    "image":"",
+    "incAddress":"[\"4 Vere St, London W1G 0DH, UK\",\"3 Chapel Pl, London W1G 0BG, UK\",\"3 Vere St, London W1G 0DG, UK\",\"332 Oxford St, London, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":38,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1465,51.5145 ]
+    },
+    "properties": {
+    "_id":"633f6f2fc4dfcc98a8354961",
+    "address":"325 Oxford St, London W1C 1JB, UK",
+    "area":90,
+    "id":"poi.68719486968",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288727/NFT-%20Buildings-1/NFT_103_325_Oxford_Street_London_imejji.jpg",
+    "image":"",
+    "incAddress":"[\"321-323 Oxford St, London W1C 2HX, UK\",\"New Bond Street (Stop OS), London W1S 1SB, UK\",\"325 Oxford St, London W1C 1JB, UK\",\"321-331 Oxford St, London W1C 2HX, UK\",\"327-329 Oxford St, London W1S 1SB, UK\",\"327-329 New Bond St, London W1S 1SB, UK\",\"80 New Bond St, London W1S 1SB, UK\",\"79 New Bond St, London W1S 1RS, UK\",\"5 Dering St, London W1S 1AA, UK\"]",
+    "ownerAddress":"0xf0b07ce95c92d2f983fe90bef296afff95986d80",
+    "ownerId":"637f1dc777164e9121688d0d",
+    "price":0.025,
+    "sequence":13,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1462,51.5145 ]
+    },
+    "properties": {
+    "_id":"633f6f62c4dfcc98a8354963",
+    "address":"321-323 Oxford St, London W1C 2HX, UK",
+    "area":90,
+    "id":"poi.1228360659950",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288669/NFT-%20Buildings-1/NFT_83_321_Oxford_St_London_W1C_2HR_United_Kingdom_hrgs8q.jpg",
+    "image":"",
+    "incAddress":"[\"Duke of York, 8 Dering St, London W1S 1AF, UK\",\"321-323 Oxford St, London W1C 2HX, UK\",\"5a Dering St, London W1S 1AA, UK\",\"5 Dering St, London W1S 1AA, UK\",\"New Bond Street (Stop OS), London W1S 1SB, UK\"]",
+    "ownerAddress":"0xde3f5f11289539c57b49eaf2158f607b0bd201c2",
+    "ownerId":"637e75fa460cd8b20e01ea3f",
+    "price":0.025,
+    "sequence":29,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.146,51.5143 ]
+    },
+    "properties": {
+    "_id":"633f6f82c4dfcc98a8354965",
+    "address":"15 Dering St, London W1S 1AE, UK",
+    "area":90,
+    "id":"poi.1047972026800",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949873/NFT-%20Buildings-1/15_Dering_St_London_W1S_1AE_UK_fqztv0.jpg",
+    "image":"",
+    "incAddress":"[\"6 Dering St, London W1S 1AD, UK\",\"5 Dering St, London W1S 1AA, UK\",\"15 Dering St, London W1S 1AE, UK\",\"7 Dering St, London W1S 1AE, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":87,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1462,51.5142 ]
+    },
+    "properties": {
+    "_id":"633f6fb3c4dfcc98a8354967",
+    "address":"78-79 New Bond St, London W1S 1RZ, UK",
+    "area":90,
+    "id":"poi.506806150522",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949742/NFT-%20Buildings-1/78-79_New_Bond_St_London_W1S_1RZ_UK_qd65m1.jpg",
+    "image":"",
+    "incAddress":"[\"22 Dering St, London W1S 1AN, UK\",\"78-79 New Bond St, London W1S 1RZ, UK\",\"77 New Bond St, London W1S 1RY, UK\",\"79 New Bond St, London W1S 1RS, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":86,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.146,51.5142 ]
+    },
+    "properties": {
+    "_id":"633f6fe5c4dfcc98a8354969",
+    "address":"11 Dering St, London W1S 1AR, UK",
+    "area":90,
+    "id":"poi.738734434873",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949876/NFT-%20Buildings-1/11_Dering_St_London_W1S_1AR_UK_wv7bwa.jpg",
+    "image":"",
+    "incAddress":"[\"9 Dering St, London W1S 1AG, UK\",\"19 Dering St, London W1S 1AH, UK\",\"3 Dering St, London W1S 1AF, UK\",\"8 Dering St, London W1S 1AF, UK\",\"76 New Bond St, London W1S 1RX, UK\",\"77 B406, London W1S 1RX, UK\",\"11 Dering St, London W1S 1AR, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":88,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1463,51.5153 ]
+    },
+    "properties": {
+    "_id":"633f7028c4dfcc98a835496b",
+    "address":"324 Oxford St, London W1C 1JA, UK",
+    "area":90,
+    "id":"poi.283467859918",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288681/NFT-%20Buildings-1/NFT_100_318_Oxford_Street_London_qvtqsl.jpg",
+    "image":"",
+    "incAddress":"[\"376-384 Chapel Pl, London W1C 1JY, UK\",\"318 Oxford St, London W1C 1HF, UK\",\"12 Old Cavendish St, London W1G 0NE, UK\",\"8 Chapel Pl, London W1G 0BG, UK\",\"9 Chapel Pl, London W1C 1HF, UK\",\"324 Oxford St, London W1C 1JA, UK\",\"On the Ground Floor of House of Fraser department store, 318 Oxford St, London W1C 1HF, UK\",\"315-319 Oxford St, London W1C 2HR, UK\"]",
+    "ownerAddress":"0xf0b07ce95c92d2f983fe90bef296afff95986d80",
+    "ownerId":"637f1dc777164e9121688d0d",
+    "price":0.025,
+    "sequence":12,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1446,51.5147 ]
+    },
+    "properties": {
+    "_id":"633f704ec4dfcc98a835496d",
+    "address":"297 Oxford St, London W1D 2JL, UK",
+    "area":90,
+    "id":"poi.867583423864",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1669782084/297_Oxford_St_London_W1D_2JL_UK_axtxkw.webp",
+    "image":"",
+    "incAddress":"[\"297 Oxford St, London W1C 2DY, UK\",\"299 Oxford St, London W1C 2DZ, UK\",\"St Georges House, 15 Hanover Square, London W1S 1HS, UK\",\"295 Oxford St, London W1C 2DY, UK\",\"297 Oxford St, London W1D 2JL, UK\"]",
+    "ownerAddress":"0xf0b07ce95c92d2f983fe90bef296afff95986d80",
+    "ownerId":"637f1dc777164e9121688d0d",
+    "price":0.025,
+    "sequence":22,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1443,51.5146 ]
+    },
+    "properties": {
+    "_id":"633f707ec4dfcc98a835496f",
+    "address":"295 Oxford St, London W1C 2DY, UK",
+    "area":90,
+    "id":"address.8035134138749678",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949866/NFT-%20Buildings-1/295_Oxford_St_London_W1C_2DY_UK_dod4kn.png",
+    "image":"",
+    "incAddress":"[\"7 Harewood Pl, London W1S 1BZ, UK\",\"Hanover House, 1 Harewood Pl, London W1S 1BU, UK\",\"293 Oxford St, London W1C 2DX, UK\",\"295 Oxford St, London W1C 2DY, UK\",\"5 Harewood Pl, London W1S 1BU, UK\",\"14A Hanover Square, London W1S 1JL, UK\",\"14 Tenterden St, London W1S 1JL, UK\",\"Hanover House, 16 Hanover Square, London W1S 1HT, UK\",\"314a Regent St., London W1C 2DX, UK\",\"1 Harewood Pl, London W1S 1BU, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":89,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1439,51.5145 ]
+    },
+    "properties": {
+    "_id":"633f70cfc4dfcc98a8354971",
+    "address":"13 Hanover Square, London W1S 1HL, UK",
+    "area":90,
+    "id":"poi.919123040683",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949874/NFT-%20Buildings-1/13_Hanover_Square_London_W1S_1HL_UK_rrq60w.jpg",
+    "image":"",
+    "incAddress":"[\"13 Hanover Square, London W1S 1HN, UK\",\"13b Hanover Square, London W1S 1HN, UK\",\"13b Hanover St, London W1S 1HN, UK\",\"10 Hanover Square, London W1S 1HN, UK\",\"13 Hanover Square, London W1S 1HL, UK\",\"Lilly House, 13 Hanover Square, London W1S 1HN, UK\",\"Floor 7, 13 Hanover Square, London W1S 1HN, UK\",\"5 Harewood Pl, London W1S 1BY, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":90,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.144,51.5148 ]
+    },
+    "properties": {
+    "_id":"633f70ecc4dfcc98a8354973",
+    "address":"289-291 Oxford St, London W1C 2DS, UK",
+    "area":90,
+    "id":"address.8035134138749678",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949737/NFT-%20Buildings-1/289-291_Oxford_St_London_W1C_2DS_UK_cbhjno.jpg",
+    "image":"",
+    "incAddress":"[\"2 Harewood Pl, London W1S 1BX, UK\",\"291a Oxford St, London W1C 2DT, UK\",\"291a Oxford St, London W1C 2DS, UK\",\"291B Oxford St, London W1C 2DT, UK\",\"5 Harewood Pl, London W1S 1BY, UK\",\"291 Oxford St, London W1C 2DT, UK\",\"13b Hanover Square, London W1S 1HN, UK\",\"289-291 Oxford St, London W1C 2DS, UK\",\"291 Oxford St, London W1C 2DS, UK\",\"3rd Floor, 2 Harewood Pl, Hanover Square, London W1S 1BX, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":91,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1435,51.5149 ]
+    },
+    "properties": {
+    "_id":"633f712ec4dfcc98a8354977",
+    "address":"283 Oxford St, London W1C 2DW, UK",
+    "area":90,
+    "id":"poi.781684103221",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288647/NFT-%20Buildings-1/NFT_23_Foot_Locker_283_Oxford_Street_London_England_W1C_2DL_United_Kingdom_opzx5e.jpg",
+    "image":"",
+    "incAddress":"[\"285 Oxford St, London W1C 2DW, UK\",\"283 Oxford St, London W1C 2DW, UK\",\"012, Spring Store, 285 Oxford St, London W1C 2DW, UK\",\"283 Oxford St, London W1C 2DN, UK\"]",
+    "ownerAddress":"0x930f91f777cb09fe38f23da3eb941e68f5819a33",
+    "ownerId":"637f147977164e9121688d05",
+    "price":0.025,
+    "sequence":40,
+    "status":"minted",
+    "updatedAt":"2023-01-10T15:54:49.988Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1434,51.5149 ]
+    },
+    "properties": {
+    "_id":"633f7170c4dfcc98a8354979",
+    "address":"277 Oxford St, London W1C 2DL, UK",
+    "area":90,
+    "id":"poi.781684103221",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949727/NFT-%20Buildings-1/277_Oxford_St_London_W1C_2DL_UK_c5xtns.jpg",
+    "image":"",
+    "incAddress":"[\"283 Oxford St, London W1C 2DN, UK\",\"283 Oxford St, London W1C 2DW, UK\",\"285 Oxford St, London W1C 2DW, UK\",\"275 Oxford St, London W1C 2DJ, UK\",\"277 Oxford St, London W1C 2DL, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":93,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1438,51.5157 ]
+    },
+    "properties": {
+    "_id":"633f71adc4dfcc98a835497b",
+    "address":"272-274 Oxford St, London W1C 1DS, UK",
+    "area":90,
+    "id":"poi.764504218157",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949729/NFT-%20Buildings-1/272-274_Oxford_St_London_W1C_1DS_UK_ujsfrq.webp",
+    "image":"",
+    "incAddress":"[\"33 Cavendish Square, London W1G 0PW, UK\",\"15 John Prince's St, London W1G 0AB, UK\",\"37 Cavendish Square, London W1G 0PW, UK\",\"Unit 1, 33 Cavendish Square, London W1G 0PW, UK\",\"14th Floor, 33 Cavendish Square, London W1G 0PW, UK\",\"28 Cavendish Square, London W1G 0DB, UK\",\"9 Holles St, London W1G 0BD, UK\",\"33 Holles St, London W1C 1DS, UK\",\"272-274 Oxford St, London W1C 1DS, UK\",\"270 Oxford St, London W1C 1DT, UK\",\"252-258 Oxford St, London W1C 1DL, UK\",\"20 John Prince's St, London W1G 0BJ, UK\",\"242-248 Oxford St, London W1G 0BJ, UK\",\"Market Hall West End, 9 Holles St, London W1G 0DB, UK\",\"15, 33 Cavendish Square, London W1G 0PW, UK\",\"15 John Prince's St, London W1G 0JW, UK\",\"31 Cavendish Square, London W1G 0PW, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":94,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1426,51.515 ]
+    },
+    "properties": {
+    "_id":"633f71fec4dfcc98a835497d",
+    "address":"261 Oxford St, London W1B 2AE, UK",
+    "area":90,
+    "id":"address.4727477697962244",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949748/NFT-%20Buildings-1/261_Oxford_St_London_W1B_2AE_UK_nx0mfd.jpg",
+    "image":"",
+    "incAddress":"[\"Bewlay House, 2 Swallow Pl, London W1B 2AE, UK\",\"2 Swallow Pl, London W1B 2AE, UK\",\"261 Oxford St, London W1B 2AE, UK\",\"257, 259 Oxford St, London W1C 2DD, UK\",\"4 Swallow Passage, London W1B 2AG, UK\",\"5 Swallow Pl, London W1B 2AF, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":95,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1428,51.5149 ]
+    },
+    "properties": {
+    "_id":"633f722ac4dfcc98a835497f",
+    "address":"271 Oxford St, London W1C 2DQ, UK",
+    "area":90,
+    "id":"poi.377957222621",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949842/NFT-%20Buildings-1/271_Oxford_St_London_W1C_2DQ_UK_e1runv.jpg",
+    "image":"",
+    "incAddress":"[\"269 Oxford St, London W1C 2DG, UK\",\"2 Swallow Pl, London W1B 2AE, UK\",\"263-265 Oxford St, London W1C 2DF, UK\",\"271 Oxford St, London W1C 2DQ, UK\",\"6 Princes St, London W1B 2LG, UK\",\"4 Princes St, London W1B 2LE, UK\",\"5 Swallow Pl, London W1B 2AF, UK\",\"3 Princes St, London W1B 2LD, UK\",\"5 Swallow Pl, London W1B 2AG, UK\",\"8 Swallow Pl, London W1B 2AF, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":96,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1426,51.515 ]
+    },
+    "properties": {
+    "_id":"633f7265c4dfcc98a8354981",
+    "address":"5 Swallow Pl, London W1B 2AF, UK",
+    "area":90,
+    "id":"address.4727477697962244",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949875/NFT-%20Buildings-1/5_Swallow_Pl_London_W1B_2AF_UK_d3ukdc.jpg",
+    "image":"",
+    "incAddress":"[\"Bewlay House, 2 Swallow Pl, London W1B 2AE, UK\",\"2 Swallow Pl, London W1B 2AE, UK\",\"261 Oxford St, London W1B 2AE, UK\",\"257, 259 Oxford St, London W1C 2DD, UK\",\"4 Swallow Passage, London W1B 2AG, UK\",\"5 Swallow Pl, London W1B 2AF, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":97,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1423,51.515 ]
+    },
+    "properties": {
+    "_id":"633f728fc4dfcc98a8354983",
+    "address":"260 Oxford St, London W1C 1DN, UK",
+    "area":90,
+    "id":"address.4727477697962244",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1669373169/NFT-%20Buildings-1/260_Oxf_Str_rbh8bl.jpg",
+    "image":"",
+    "incAddress":"[\"7 Swallow Pl, London W1B 2AG, UK\",\"255 Swallow Passage, London W1B 2AG, UK\",\"4 Swallow Passage, London W1B 2AG, UK\",\"76 Wimpole St, London W1G 9RT, UK\",\"260 Oxford St, London W1C 1DN, UK\",\"251 Oxford St, London W1B 2AG, UK\",\"249-251 Regent St., London W1B 2EP, UK\",\"255-259 Regent St., London W1B 2EP, UK\",\"7 Swallow Passage, London W1B 2AG, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":41,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1422,51.5148 ]
+    },
+    "properties": {
+    "_id":"633f72c5c4dfcc98a8354985",
+    "address":"253 Regent St., London W1B 2ER, UK",
+    "area":90,
+    "id":"address.4727477697962244",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949836/NFT-%20Buildings-1/253_Regent_St._London_W1B_2ER_UK_xyjwk5.jpg",
+    "image":"",
+    "incAddress":"[\"251 Regent St., London W1B 2EP, UK\",\"254 Regent St., London W1B 3AA, UK\",\"253 Regent St., London W1B 2ER, UK\",\"2 Swallow Pl, London W1B 2AE, UK\",\"255-259 Regent St., London W1B 2EP, UK\",\"249-251 Regent St., London W1B 2EP, UK\",\"259 Regent St., London W1B 2EP, UK\",\"249 Regent St., London W1B 2EP, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":98,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1427,51.5157 ]
+    },
+    "properties": {
+    "_id":"633f7370c4dfcc98a8354987",
+    "address":"271 Great Castle St, London W1B 2ES, UK",
+    "area":90,
+    "id":"poi.1159641185387",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1669824576/NFT-%20Buildings-1/261-271_Regent_St._London_W1B_2ES_United_Kingdom_za2tnm.jpg",
+    "image":"",
+    "incAddress":"[\"5-7 John Prince's St, London W1G 0JN, UK\",\"15 John Prince's St, London W1G 0JW, UK\",\"137 Great Castle St, London W1G 0JN, UK\",\"271 Great Castle St, London W1B 2ES, UK\",\"2nd Floor, 5-7 John Prince's St, London W1G 0JN, UK\",\"Josaron House, 5-7 John Prince's St, London W1G 0JN, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":99,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1426,51.5156 ]
+    },
+    "properties": {
+    "_id":"633f739fc4dfcc98a8354989",
+    "address":"265 Regent St., London W1B 2EU, UK",
+    "area":90,
+    "id":"poi.42949688833",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949862/NFT-%20Buildings-1/265_Regent_St._London_W1B_2EU_UK_tauwyf.png",
+    "image":"",
+    "incAddress":"[\"4 John Prince's St, London W1G 0JL, UK\",\"Josaron House, 5-7 John Prince's St, London W1G 0JN, UK\",\"15 John Prince's St, London W1G 0JW, UK\",\"269 Regent St., London W1B 2ES, UK\",\"265 Regent St., London W1B 2EU, UK\",\"5-7 John Prince's St, London W1G 0JN, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":100,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1424,51.5155 ]
+    },
+    "properties": {
+    "_id":"633f73d4c4dfcc98a835498b",
+    "address":"238 Oxford St, London W1B 3AH, UK",
+    "area":90,
+    "id":"poi.42949688833",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949725/NFT-%20Buildings-1/238_Oxford_St_London_W1B_3AH_UK_k1jrco.jpg",
+    "image":"",
+    "incAddress":"[\"4 John Prince's St, London W1G 0JL, UK\",\"265 Regent St., London W1B 2EU, UK\",\"76 Wimpole St, London W1G 9RT, UK\",\"238 Oxford St, London W1B 3AH, UK\",\"269 Great Castle St, London W1B 2ES, UK\",\"271 Heddon St, London W1B 2ES, UK\",\"271 Great Castle St, London W1B 2ES, UK\",\"269 Regent St., London W1B 2ES, UK\",\"271 Regent St., London W1B 2ES, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":101,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1414,51.5157 ]
+    },
+    "properties": {
+    "_id":"633f746dc4dfcc98a835498d",
+    "address":"214 Oxford St, London W1D 1LA, UK",
+    "area":90,
+    "id":"poi.274878013261",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949730/NFT-%20Buildings-1/214_Oxford_St_London_W1D_1LA_UK_v9x0cj.jpg",
+    "image":"",
+    "incAddress":"[\"214 Oxford St, London W1C 1DA, UK\",\"236 Oxford St, London W1C 1DE, UK\",\"36-38 Great Castle St, London W1W 8LG, UK\",\"222 Oxford St, London W1C 1DD, UK\",\"15 Great Castle St, London W1W 8LR, UK\",\"214 Oxford St, London W1D 1LA, UK\",\"2 Great Castle St, London W1W 8LP, UK\",\"216 Oxford St, London W1D 2JH, UK\",\"1 Great Portland St, London W1W 8PZ, UK\",\"4 Great Portland St, London W1W 8QJ, UK\",\"286 Regent St., London W1W 8LR, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":102,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1416,51.5151 ]
+    },
+    "properties": {
+    "_id":"633f7498c4dfcc98a835498f",
+    "address":"249 Oxford St, London W1D 2LR, UK",
+    "area":90,
+    "id":"poi.987842493918",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949799/NFT-%20Buildings-1/249_Oxford_St_London_W1D_2LR_UK_iq62ka.png",
+    "image":"",
+    "incAddress":"[\"25 Regent St., Argyll St, London W1F 7TS, UK\",\"249 Oxford St, London W1D 2LR, UK\",\"266 Regent St., London W1B 3AH, UK\",\"262 Regent St., London W1B 3AQ, UK\",\"1 Oxford St, London W1B 3AH, UK\",\"260 Regent St., London W1B 3AG, UK\",\"266/270 Regent St., London W1B 3AH, UK\",\"Oxford Circus, Oxford St, London W1B 3AG, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":103,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1414,51.5152 ]
+    },
+    "properties": {
+    "_id":"633f74b6c4dfcc98a8354991",
+    "address":"241 Oxford St, London W1D 2LT, UK",
+    "area":90,
+    "id":"address.8987358134768698",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1669373440/ICE_International_Currency_Exchange_updated_ftx2h0.jpg",
+    "image":"",
+    "incAddress":"[\"243 Oxford St, London W1D 2LT, UK\",\"266/270 Regent St., London W1B 3AH, UK\",\"241 Oxford St, London W1D 2LT, UK\",\"243 Argyll St, London W1D 2LT, UK\",\"The Argyll, 18 Argyll St, London W1F 7TP, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":42,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1413,51.5151 ]
+    },
+    "properties": {
+    "_id":"633f74cdc4dfcc98a8354993",
+    "address":"15a Argyll St, London W1F 7TN, UK",
+    "area":90,
+    "id":"poi.283467859309",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949873/NFT-%20Buildings-1/15a_Argyll_St_London_W1F_7TN_UK_tmg9ag.jpg",
+    "image":"",
+    "incAddress":"[\"15a Argyll St, London W1F 7TN, UK\",\"The Argyll, 18 Argyll St, London W1F 7TP, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":104,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1414,51.5149 ]
+    },
+    "properties": {
+    "_id":"633f7525c4dfcc98a8354995",
+    "address":"19-25 Argyll St, London W1F 7TS, UK",
+    "area":90,
+    "id":"poi.833223693837",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949731/NFT-%20Buildings-1/19-25_Argyll_St_London_W1F_7TS_UK_cz9rmy.jpg",
+    "image":"",
+    "incAddress":"[\"252 Regent St., London W1B 3AF, UK\",\"260 Regent St., London W1B 3AG, UK\",\"262-264 Regent St., London W1B 3AQ, UK\",\"256 Regent St., London W1B 3AF, UK\",\"258 Regent St., London W1F 7TS, UK\",\"19-25 Argyll St, London W1F 7TS, UK\",\"19-21 Argyll St, London W1F 7TS, UK\",\"25 Argyll St, London W1F 7TU, UK\",\"15a Argyll St, London W1F 7TN, UK\",\"The London Paladium, 8 Argyll St, London W1F 7TF, UK\",\"Dowley Turner Real Estate LLP, 2nd Floor, 25 Argyll St, London W1F 7TS, UK\",\"246 Regent St., London W1F 7TU, UK\",\"21a Argyll St, London W1F 7TT, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":105,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1415,51.5146 ]
+    },
+    "properties": {
+    "_id":"633f7545c4dfcc98a8354997",
+    "address":"246 Regent St., London W1F 7TU, UK",
+    "area":90,
+    "id":"poi.429496805902",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949734/NFT-%20Buildings-1/246_Regent_St._London_W1F_7TU_UK_aet6zy.jpg",
+    "image":"",
+    "incAddress":"[\"W, 250 Regent St., London W1B 3BN, UK\",\"4 Little Argyll St, London W1B 3BN, UK\",\"252 Regent St., London W1B 3AF, UK\",\"21a Argyll St, London W1F 7TT, UK\",\"246 Regent St., London W1F 7TU, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":106,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.141,51.5152 ]
+    },
+    "properties": {
+    "_id":"633f75bec4dfcc98a8354999",
+    "address":"237 Oxford St, London W1D 2LR, UK",
+    "area":90,
+    "id":"address.1953602705009804",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949726/NFT-%20Buildings-1/237_Oxford_St_London_W1D_2LR_UK_dwtpjl.jpg",
+    "image":"",
+    "incAddress":"[\"223-225 Oxford St, London W1D 2LR, UK\",\"15 Argyll St, London W1F 7TP, UK\",\"237 Oxford St, London W1D 2LR, UK\",\"15 Little Argyll St, London W1F 7TN, UK\",\"14 Argyll St, London W1F 7TJ, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":107,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1408,51.5153 ]
+    },
+    "properties": {
+    "_id":"633f75dac4dfcc98a835499b",
+    "address":"225-227 Oxford St, London W1D 2LP, UK",
+    "area":90,
+    "id":"address.8987358134768698",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288723/NFT-%20Buildings-1/NFT_105_227_Oxford_Street_London_lbvx99.jpg",
+    "image":"",
+    "incAddress":"[\"227 Oxford St, London W1D 2LR, UK\",\"15 Little Argyll St, London W1F 7TN, UK\",\"225-235 Oxford St, London W1D 2LP, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":14,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1408,51.515 ]
+    },
+    "properties": {
+    "_id":"633f75f3c4dfcc98a835499d",
+    "address":"228-235 Oxford St, London W1D 2LP, UK",
+    "area":90,
+    "id":"address.1953602705009804",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949774/NFT-%20Buildings-1/228-235_Oxford_St_London_W1D_2LP_UK_aabid7.png",
+    "image":"",
+    "incAddress":"[\"12, 14 Argyll St, Oxford St, London W1F 7TN, UK\",\"14 Argyll St, London W1F 7TJ, UK\",\"225-235 Oxford St, London W1D 2LP, UK\",\"11 Argyll St, London W1F 7TH, UK\",\"2, 11 Argyll St, London W1F 7TH, UK\",\"13 Argyll St, London W1F 7TJ, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":130,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1405,51.5151 ]
+    },
+    "properties": {
+    "_id":"633f7617c4dfcc98a835499f",
+    "address":"231-235 Oxford St, London W1D 2LP, UK",
+    "area":90,
+    "id":"address.8039016005905554",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288716/NFT-%20Buildings-1/NFT_106_227_Oxford_Street_London_vedpuz.jpg",
+    "image":"",
+    "incAddress":"[\"10 Hills Pl, London W1F 7SD, UK\",\"221-223 Oxford St, London W1D 2LJ, UK\",\"225 Oxford St, London W1D 2LR, UK\",\"225-235 Oxford St, London W1D 2LP, UK\",\"11 Argyll St, London W1F 7TH, UK\"]",
+    "ownerAddress":"0x1f0ee78d16ab3994ceed119c7b5627c07d622cda",
+    "ownerId":"63842863389f061aaad81af3",
+    "price":0.025,
+    "sequence":10,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1404,51.5152 ]
+    },
+    "properties": {
+    "_id":"633f763ac4dfcc98a83549a1",
+    "address":"225 Oxford St, London W1D 2LR, UK",
+    "area":90,
+    "id":"address.8039016005905554",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288702/NFT-%20Buildings-1/NFT_85_225_Oxford_St_London_W1D_2LR_UK_dro5kr.jpg",
+    "image":"",
+    "incAddress":"[\"10 Hills Pl, London W1F 7SD, UK\",\"221-223 Oxford St, London W1D 2LJ, UK\",\"225 Oxford St, London W1D 2LR, UK\"]",
+    "ownerAddress":"0x076f0ac856a39b0408c62b82d4f8501e4fa8a424",
+    "ownerId":"63a8694afc72240bd7caf58a",
+    "price":0.025,
+    "sequence":43,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1404,51.5149 ]
+    },
+    "properties": {
+    "_id":"633f765ac4dfcc98a83549a3",
+    "address":"10 Argyll St, London W1B, UK",
+    "area":90,
+    "id":"address.8039016005905554",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949872/NFT-%20Buildings-1/10_Argyll_St_London_W1B_UK_apumby.webp",
+    "image":"",
+    "incAddress":"[\"4th Floor, West End House, 11 Hills Pl, London W1F 7SE, UK\",\"10 Argyll St, London W1B, UK\",\"10 Hills Pl, London W1F 7SD, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":108,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.14,51.5157 ]
+    },
+    "properties": {
+    "_id":"633f76a9c4dfcc98a83549a7",
+    "address":"196 Oxford St, London W1D 1NT, UK",
+    "area":90,
+    "id":"address.5442987457633040",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288694/NFT-%20Buildings-1/NFT_88_HSBC_196_Oxford_Street_London_xxeink.jpg",
+    "image":"",
+    "incAddress":"[\"196 Oxford St, London W1D 1NT, UK\",\"1st Floor, 26 Market Pl, London W1W 8AN, UK\",\"24 Market Pl, London W1W 8AN, UK\",\"26a Market Pl, London W1W 8AW, UK\",\"26 Market Pl, London W1W 8AN, UK\",\"194 Oxford St, London W1D 1NS, UK\"]",
+    "ownerAddress":"0xe891a6c341fdef3d09226a4c0e2d477e5ebf8600",
+    "ownerId":"638f712294406497fca0d240",
+    "price":0.025,
+    "sequence":9,
+    "status":"minted",
+    "updatedAt":"2023-01-14T11:23:25.701Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.14,51.5152 ]
+    },
+    "properties": {
+    "_id":"633f76d5c4dfcc98a83549a9",
+    "address":"213 Oxford St, London W1D 2LG, UK",
+    "area":90,
+    "id":"poi.1039382130422",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288672/NFT-%20Buildings-1/NFT_45_Zara_215-219_Oxford_St_London_England_W1D_1NS_United_Kingdom_rl9jqp.jpg",
+    "image":"",
+    "incAddress":"[\"11 Hills Pl, London W1F 7SE, UK\",\"215-219 Oxford St, London W1D 2LG, UK\",\"215 Oxford St, London W1D 2LG, UK\",\"1-9 Hills Pl, London W1F 7SA, UK\",\"199 Oxford St, London W1D 2LB, UK\",\"213 Oxford St, London W1D 2LG, UK\",\"1 Ramillies Pl, London W1B, UK\",\"1 Hills Place, London W1B, UK\"]",
+    "ownerAddress":"0x930f91f777cb09fe38f23da3eb941e68f5819a33",
+    "ownerId":"637f147977164e9121688d05",
+    "price":0.025,
+    "sequence":45,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1399,51.515 ]
+    },
+    "properties": {
+    "_id":"633f76f2c4dfcc98a83549ab",
+    "address":"1 Ramillies Pl, London W1B, UK",
+    "area":90,
+    "id":"address.8039016005905554",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949873/NFT-%20Buildings-1/1_Ramillies_Pl_London_W1B_UK_kgfzcm.jpg",
+    "image":"",
+    "incAddress":"[\"1 Hills Pl, London W1F 7SA, UK\",\"11 Hills Pl, London W1F 7SE, UK\",\"1 Ramillies Pl, London W1F 7LE, UK\",\"1 Ramillies Pl, London W1B, UK\",\"1-9 Hills Pl, London W1F 7SA, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":109,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1394,51.5151 ]
+    },
+    "properties": {
+    "_id":"633f7720c4dfcc98a83549ad",
+    "address":"201-203 Oxford St, London W1D 2LE, UK",
+    "area":90,
+    "id":"address.440519812282214",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288668/NFT-%20Buildings-1/NFT_19_JD_Sports_197-203_Oxford_Street_London_England_W1F_7TY_United_Kingdom_prjzjm.jpg",
+    "image":"",
+    "incAddress":"[\"1-9 Hills Pl, London W1F 7SA, UK\",\"16 Ramillies Pl, London W1F 7LE, UK\",\"11 Ramillies Pl, London W1F 7LW, UK\",\"201-203 Oxford St, London W1D 2LE, UK\",\"16-18 Ramillies St, London W1F 7LW, UK\",\"6 Ramillies St, London W1F 7TY, UK\",\"203-207 Oxford St, London W1D 2LE, UK\",\"Jubilee House, 197-213 Oxford St, London W1D 2LF, UK\",\"Ramillies House, 1-2 Ramillies St, London W1F 7LN, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":46,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1389,51.5153 ]
+    },
+    "properties": {
+    "_id":"633f7776c4dfcc98a83549af",
+    "address":"193 Oxford St, London W1D 2JX, UK",
+    "area":90,
+    "id":"poi.111669199829",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288708/NFT-%20Buildings-1/NFT_116_193_Oxford_St_London_W1D_2JY_UK_i29zyk.jpg",
+    "image":"",
+    "incAddress":"[\"Ramillies House, 1-2 Ramillies St, London W1F 7LN, UK\",\"6 Ramillies St, London W1F 7TY, UK\",\"193 Oxford St, London W1D 2JY, UK\",\"193 Oxford St, London W1D 2JU, UK\",\"185 Oxford St, London W1D 2JX, UK\",\"18 Ramillies Pl, London W1F 7LQ, UK\",\"2nd Floor, 6 Ramillies St, London W1F 7TY, UK\",\"24 Ramillies Pl, London W1D 2JT, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":47,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.139,51.5161 ]
+    },
+    "properties": {
+    "_id":"633f77bcc4dfcc98a83549b1",
+    "address":"180 Oxford St, London W1D 1AB, UK",
+    "area":90,
+    "id":"poi.369367291269",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288643/NFT-%20Buildings-1/NFT_109_174-180_Oxford_St_London_W1D_1NQ_UK_mua9ub.jpg",
+    "image":"",
+    "incAddress":"[\"85 Oxford St, London W1D 1NQ, UK\",\"2A Great Titchfield St., London W1W 8BB, UK\",\"2 Great Titchfield St., London W1D 1NN, UK\",\"46 Eastcastle St, London W1W 8DX, UK\",\"174-176 Oxford St, London W1D 1NX, UK\",\"180 Oxford St, London W1D 1NN, UK\",\"180 Oxford St, London W1D 1AB, UK\",\"7th Floor, United Kingdom House, 2 Great Titchfield St., London W1D 1NN, UK\",\"47 Eastcastle St, London W1W 8DS, UK\",\"4TH FLOOR, United Kingdom House, 180 Oxford St, London W1D 1NN, UK\",\"174-180 Oxford St, London W1D 1NQ, UK\",\"49 Eastcastle St, London W1W 8DZ, UK\",\"170 Oxford St, London W1D 1NQ, UK\",\"5 Winsley St, London W1W 8HG, UK\",\"168 Oxford St, London W1D 1NQ, UK\",\"48 Eastcastle St, London W1W 8DP, UK\",\"162 Oxford St, London W1D 1NG, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":48,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1383,51.5155 ]
+    },
+    "properties": {
+    "_id":"633f77e9c4dfcc98a83549b3",
+    "address":"175 Oxford St, London W1D 2JS, UK",
+    "area":90,
+    "id":"poi.644245177134",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288653/NFT-%20Buildings-1/NFT_50_175_Oxford_St_London_W1D_2JS_United_Kingdom_nvuepl.jpg",
+    "image":"",
+    "incAddress":"[\"173 Oxford St, London W1D 2JR, UK\",\"23 Ramillies Pl, London W1F 7LL, UK\",\"175 Oxford St, London W1D 2JS, UK\",\"165 Oxford St, London W1D 2JW, UK\",\"Radcliffe College, 185 Oxford St, London W1D 2JX, UK\",\"36 Poland St, London W1F 7LU, UK\",\"20 Ramillies Pl, London W1F 7LJ, UK\",\"24 Ramillies Pl, London W1D 2JT, UK\",\"169 Oxford St, London W1D 2JL, UK\",\"169-173 Oxford St, London W1D 2JR, UK\"]",
+    "ownerAddress":"0xf0b07ce95c92d2f983fe90bef296afff95986d80",
+    "ownerId":"637f1dc777164e9121688d0d",
+    "price":0.025,
+    "sequence":8,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1379,51.5151 ]
+    },
+    "properties": {
+    "_id":"633f7819c4dfcc98a83549b5",
+    "address":"169-173 Oxford St, London W1D 2JR, UK",
+    "area":90,
+    "id":"poi.197568497279",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288652/NFT-%20Buildings-1/NFT_86_173_Oxford_St_London_W1D_2JR_United_Kingdom_omkbyr.jpg",
+    "image":"",
+    "incAddress":"[\"38 Poland St, London W1F 7LY, UK\",\"20 Ramillies Pl, London W1F 7LJ, UK\",\"169-173 Oxford St, London W1D 2JR, UK\",\"10 Great Marlborough St, London W1F 7LP, UK\",\"6 Great Marlborough St, London W1F 7LP, UK\",\"56 Great Marlborough St, London W1F 7HG, UK\",\"3 Great Marlborough St, London W1F 7HQ, UK\",\"44 Poland St, London W1F 7LZ, UK\",\"22 Poland St, London W1F 8QQ, UK\",\"25 - 26 Poland St, London W1F 8QN, UK\",\"36 Poland St, London W1F 7LU, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":131,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1375,51.516 ]
+    },
+    "properties": {
+    "_id":"633f783cc4dfcc98a83549b7",
+    "address":"138-140 Oxford St, London W1D 1LZ, UK",
+    "area":90,
+    "id":"address.8141659631475684",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949725/NFT-%20Buildings-1/138-140_Oxford_St_London_W1D_1LZ_UK_mgpwdc.jpg",
+    "image":"",
+    "incAddress":"[\"138-140 Oxford St, London W1D 1LZ, UK\",\"142-144 Oxford St, London W1D 1LZ, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":110,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1376,51.5159 ]
+    },
+    "properties": {
+    "_id":"633f7853c4dfcc98a83549b9",
+    "address":"142-144 Oxford St, London W1D 1LZ, UK",
+    "area":90,
+    "id":"poi.446676669986",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288633/NFT-%20Buildings-1/NFT_108_146-148_Oxford_St_London_W1D_1NB_United_Kingdom_gmxall.jpg",
+    "image":"",
+    "incAddress":"[\"146-148 Oxford St, London W1D 1NB, UK\",\"142-144 Oxford St, London W1D 1LZ, UK\"]",
+    "ownerAddress":"0x1f0ee78d16ab3994ceed119c7b5627c07d622cda",
+    "ownerId":"63842863389f061aaad81af3",
+    "price":0.025,
+    "sequence":36,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1382,51.516 ]
+    },
+    "properties": {
+    "_id":"633f78ccc4dfcc98a83549bd",
+    "address":"160 Oxford St, London W1D 1NF, UK",
+    "area":1122,
+    "id":"poi.438086685443",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288648/NFT-%20Buildings-1/NFT_35_Dune_156_Oxford_St_London_England_W1D_1NE_United_Kingdom_ep8ozo.jpg",
+    "image":"",
+    "incAddress":"[\"162 Oxford St, London W1D 1NG, UK\",\"Mappin House, 4 Winsley St, London W1W 8HF, UK\",\"4 Winsley St, London W1W 8HF, UK\",\"Mappin House, Winsley St, London, UK\",\"142-144 Oxford St, London W1D 1LZ, UK\",\"156 Oxford St, London W1D 1NG, UK\",\"160 Oxford St, London W1D 1NF, UK\",\"158 Oxford St, London W1D 1NF, UK\",\"158 Oxford St, London W1D 1NE, UK\",\"1st Floor Mappin House, Winsley St, London W1W 8HF, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":50,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1368,51.5157 ]
+    },
+    "properties": {
+    "_id":"633f78e8c4dfcc98a83549bf",
+    "address":"145 Oxford St, London W1D 2JD, UK",
+    "area":174.89,
+    "id":"address.5630610003501506",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288673/NFT-%20Buildings-1/NFT_16_Office_for_rent_145_Oxford_St_London_W1D_2JD_UK_dfttuv.jpg",
+    "image":"",
+    "incAddress":"[\"145 Oxford St, London W1D 2JD, UK\",\"56 Berwick St, London W1F 8SW, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":51,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1369,51.5157 ]
+    },
+    "properties": {
+    "_id":"633f7905c4dfcc98a83549c1",
+    "address":"147 Oxford St, London W1D 2JE, UK",
+    "area":173.74,
+    "id":"poi.515396076262",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288633/NFT-%20Buildings-1/NFT_113_147_Oxford_St_London_W1D_2JE_United_Kingdom_xba8wh.jpg",
+    "image":"",
+    "incAddress":"[\"145 Oxford St, London W1D 2JD, UK\",\"147 Oxford St, London W1D 2JE, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":52,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1371,51.5156 ]
+    },
+    "properties": {
+    "_id":"633f792dc4dfcc98a83549c3",
+    "address":"149-151 Oxford St, London W1D 2JG, UK",
+    "area":446.98,
+    "id":"poi.515396076262",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288731/NFT-%20Buildings-1/NFT_24_Matalan_149-151_Oxford_St_London_W1D_2JQ_UK_ygelxs.jpg",
+    "image":"",
+    "incAddress":"[\"149-151 Oxford St, London W1D 2JQ, UK\",\"149 Oxford St, London W1D 2JL, UK\",\"149-151 Oxford St, London W1D 2JG, UK\",\"149 Oxford St, London W1D 2JG, UK\",\"151 Oxford St, London W1D 2JG, UK\",\"147 Oxford St, London W1D 2JE, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":53,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1365,51.5162 ]
+    },
+    "properties": {
+    "_id":"633f7995c4dfcc98a83549c7",
+    "address":"120-128 Oxford St, London W1D 2JD, UK",
+    "area":2455.96,
+    "id":"poi.575525641874",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288731/NFT-%20Buildings-1/NFT_18_Next_120-128_Oxford_Street_London_England_W1D_1LT_United_Kingdom_yqht2v.jpg",
+    "image":"",
+    "incAddress":"[\"128 Oxford St, London W1D 2JD, UK\",\"120 Oxford St, London W1D 1LT, UK\",\"70 Berners St, London W1T 3NL, UK\",\"62 Berners St, London W1T 3NN, UK\",\"116 Berners St, London W1D 2HT, UK\",\"Plaza Oxford Street, 120-128 Oxford St, London W1D 1LT, UK\",\"Colegrave House, 68-70 Berners St, London W1T 3NL, UK\",\"79 Wells St, London W1T 3QN, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":54,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1358,51.5161 ]
+    },
+    "properties": {
+    "_id":"633f79d3c4dfcc98a83549cb",
+    "address":"110 Oxford St, London W1D 1LS, UK",
+    "area":185.77,
+    "id":"address.476595315992244",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949724/NFT-%20Buildings-1/110_Oxford_St_London_W1D_1LS_UK_ypnklk.jpg",
+    "image":"",
+    "incAddress":"[\"114 Oxford St, London W1D 1LS, UK\",\"112 Oxford St, London W1D 1LS, UK\",\"1A Berners St, London W1T 3LA, UK\",\"110 Oxford St, London W1D 1LS, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":111,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1356,51.5161 ]
+    },
+    "properties": {
+    "_id":"633f79ecc4dfcc98a83549cd",
+    "address":"112/114 Oxford St, London W1D 1LS, UK",
+    "area":90.39,
+    "id":"poi.584115631198",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288681/NFT-%20Buildings-1/NFT_2_112-114_Oxford_street_London_qmxajf.jpg",
+    "image":"",
+    "incAddress":"[\"112-114 Oxford St, London W1D 1LS, UK\",\"110 Oxford St, London W1D 1LS, UK\",\"LifeTonic Ltd, First Floor, 104â€”108 Oxford Street, London W1D 1LP, UK\",\"112/114 Oxford St, London W1D 1LS, UK\"]",
+    "ownerAddress":"0x1f0ee78d16ab3994ceed119c7b5627c07d622cda",
+    "ownerId":"638384f077164e91216891ca",
+    "price":0.025,
+    "sequence":7,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1355,51.5161 ]
+    },
+    "properties": {
+    "_id":"633f7a0bc4dfcc98a83549cf",
+    "address":"104-108 Oxford St, London W1D 1LP, UK",
+    "area":303.99,
+    "id":"poi.463856470942",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288636/NFT-%20Buildings-1/NFT_31_Ann_Summers_London_Oxford_Street_104-106_Oxford_St_London_W1D_1LP_UK_pnk4dk.jpg",
+    "image":"",
+    "incAddress":"[\"104 Oxford St, London W1D 1LP, UK\",\"LifeTonic Ltd, First Floor, 104â€”108 Oxford Street, London W1D 1LP, UK\",\"104-108 Oxford St, London W1D 1LP, UK\",\"First Floor, 104-108 Oxford St, London W1D 1LP, UK\",\"Century House, 100 Oxford St, London W1D 1LL, UK\",\"106 Oxford St, London W1D 1LP, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":132,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1349,51.5158 ]
+    },
+    "properties": {
+    "_id":"633f7a58c4dfcc98a83549d3",
+    "address":"105-107 Oxford St, London W1D 2HQ, UK",
+    "area":445.52,
+    "id":"poi.704374692424",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949783/NFT-%20Buildings-1/105-107_Oxford_St_London_W1D_2HQ_UK_vkmfxo.jpg",
+    "image":"",
+    "incAddress":"[\"105 Oxford St, London W1D 2HQ, UK\",\"105-107 Oxford St, London W1D 2HQ, UK\",\"103a Oxford St, London W1D 2HG, UK\",\"107 Oxford St, London W1D 2HQ, UK\",\"109 Oxford St, London W1D 2HH, UK\",\"24 Great Chapel St, London W1F 8FS, UK\",\"103 Oxford St, London W1D 2HF, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":112,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1348,51.5156 ]
+    },
+    "properties": {
+    "_id":"633f7a83c4dfcc98a83549d5",
+    "address":"15 Hollen St, London W1D 3DD, UK",
+    "area":390.63,
+    "id":"address.5913119296043968",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949876/NFT-%20Buildings-1/15_Hollen_St_London_W1D_3DD_UK_xqsgor.webp",
+    "image":"",
+    "incAddress":"[\"18 Hollen St, London W1F 8BG, UK\",\"24 Great Chapel St, London W1F 8FS, UK\",\"18 Hollen St, London W1D 3DD, UK\"]",
+    "ownerAddress":"0xde3f5f11289539c57b49eaf2158f607b0bd201c2",
+    "ownerId":"637e75fa460cd8b20e01ea3f",
+    "price":0.025,
+    "sequence":113,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1346,51.5157 ]
+    },
+    "properties": {
+    "_id":"633f7aa2c4dfcc98a83549d7",
+    "address":"22 Great Chapel St, London W1F 8FR, UK",
+    "area":321.71,
+    "id":"poi.1254130452257",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949841/NFT-%20Buildings-1/22_Great_Chapel_St_London_W1F_8FR_UK_feo2vu.webp",
+    "image":"",
+    "incAddress":"[\"24 Great Chapel St, London W1F 8FS, UK\",\"22 Hollen St, London W1F 8BG, UK\",\"1 Great Chapel St, London W1F 8FS, UK\",\"15 Great Chapel St, London W1F 8FS, UK\",\"22 Great Chapel St, London W1F 8FR, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":114,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1347,51.5159 ]
+    },
+    "properties": {
+    "_id":"633f7abec4dfcc98a83549d9",
+    "address":"103a Oxford St, London W1D 2HG, UK",
+    "area":244.89,
+    "id":"address.1553293647791600",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949744/NFT-%20Buildings-1/103a_Oxford_St_London_W1D_2HG_UK_qgxfk3.jpg",
+    "image":"",
+    "incAddress":"[\"103a Oxford St, London W1D 2HG, UK\",\"1 Great Chapel St, London W1F 8FS, UK\",\"101-103 Oxford St, London W1D 2HH, UK\",\"14 Great Chapel St, London W1F 8FL, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":115,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1343,51.5158 ]
+    },
+    "properties": {
+    "_id":"633f7ae0c4dfcc98a83549db",
+    "address":"94 Oxford St, London W1D 1BZ, UK",
+    "area":1350.22,
+    "id":"poi.755914260105",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949871/NFT-%20Buildings-1/94_Oxford_St_London_W1D_1BZ_UK_ctimv8.jpg",
+    "image":"",
+    "incAddress":"[\"3-4 Great Chapel St, London W1F 8FS, UK\",\"94 Oxford St, London W1D 1BZ, UK\",\"102 Dean St, London W1D 3TQ, UK\",\"9799 Dean St, London W1D 3RB, UK\",\"97-99 Dean St, London W1F 8FW, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":116,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1342,51.5163 ]
+    },
+    "properties": {
+    "_id":"633f7b01c4dfcc98a83549dd",
+    "address":"77 Oxford St, London W1D 1BN, UK",
+    "area":1663.41,
+    "id":"address.1419872859880674",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949761/NFT-%20Buildings-1/77_Oxford_St_London_W1D_1BN_UK_xe47lo.jpg",
+    "image":"",
+    "incAddress":"[\"82 Oxford St, London W1D 1BP, UK\",\"76 Oxford St, London W1D 1BS, UK\",\"77 Oxford St, London W1D 1BN, UK\",\"Oxford House, 76 Oxford St, London W1D 1BS, UK\",\"Oxford House, London, UK\",\"8 Newman St, London W1T 1PB, UK\",\"40 Duke St, London, UK\",\"68 Oxford St, London W1D 1BN, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":117,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1333,51.5164 ]
+    },
+    "properties": {
+    "_id":"633f7b29c4dfcc98a83549df",
+    "address":"132 new oxford street london",
+    "area":1004.6,
+    "id":"poi.627065233948",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1669374595/Halifax_Building_uvgofc.jpg",
+    "image":"",
+    "incAddress":"[\"Holden House, 57 Rathbone Pl, London W1T 1JU, UK\",\"58 Oxford St, London W1D 1BH, UK\",\"60 Oxford St, London W1D 1BJ, UK\",\"4th floor, Holden House, 57 Rathbone Pl, London W1T 1JU, UK\",\"54-56 Oxford St, London W1D 1BQ, UK\",\"56 Rathbone Pl, London W1T 1JT, UK\",\"Charlotte Building, Evelyn Yard, London W1T 1JR, UK\",\"54 Rathbone Pl, London W1T 1JR, UK\",\"Holden House, 57 Rathbone Pl, London W1T 1JT, UK\",\"58 Rathbone Pl, London W1T 1JX, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":134,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1329,51.5166 ]
+    },
+    "properties": {
+    "_id":"633f7bc6c4dfcc98a83549e1",
+    "address":"52 Oxford St, London W1D 1BG, UK",
+    "area":762.7,
+    "id":"poi.197568583168",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949736/NFT-%20Buildings-1/52_Oxford_St_London_W1D_1BG_UK_lnmlzu.jpg",
+    "image":"",
+    "incAddress":"[\"1 Rathbone Pl, London W1T 1HH, UK\",\"52 Oxford St, London W1D 1BG, UK\",\"The Black Horse, 3-5 Rathbone Pl, London W1T 1HJ, UK\",\"57 Rathbone Pl, London W1T 1JT, UK\",\"3-5 Rathbone Pl, London W1T 1HJ, UK\",\"10 Evelyn Yard, London W1T 1AU, UK\",\"40 Hanway St, London W1T 1UT, UK\",\"46 Oxford St, London W1D 1BG, UK\",\"50 Hanway St, London W1D 1BG, UK\",\"50 Oxford St, London W1D 1BG, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":118,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1322,51.5161 ]
+    },
+    "properties": {
+    "_id":"633f7bf7c4dfcc98a83549e3",
+    "address":"45 Oxford St, London W1D 2DZ, UK",
+    "area":837.3,
+    "id":"poi.841813664027",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949780/NFT-%20Buildings-1/45_Oxford_St_London_W1D_2DZ_UK_gtwl5j.jpg",
+    "image":"",
+    "incAddress":"[\"43 Oxford St, London W1D 2DY, UK\",\"41 Oxford St, London W1D 2DX, UK\",\"Essex House, 47 Oxford St, London W1D 2EB, UK\",\"53 Oxford St, London W1D 2EG, UK\",\"1-2 Soho St, London W1D 3GN, UK\",\"3-5 Soho St, London W1D 3GN, UK\",\"3 Soho St, London W1D 3GN, UK\",\"45 Oxford St, London W1D 2DZ, UK\",\"45B Oxford St, London W1D 2DZ, UK\",\"51 Oxford St, London W1D 2EF, UK\",\"Red Bull, 15 Soho Square, London W1D 3QG, UK\",\"47 Oxford St, London W1D 2EB, UK\",\"47 Soho St, London W1D 2DZ, UK\",\"47 Oxford St, London W1D 2EE, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":119,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1314,51.5167 ]
+    },
+    "properties": {
+    "_id":"633f7c52c4dfcc98a83549e5",
+    "address":"12 Oxford St, London",
+    "area":5400.11,
+    "id":"poi.154618831040",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288663/NFT-%20Buildings-1/NFT_27_Boost_Juice_12_Oxford_St_London_England_W1D_1AW_United_Kingdom_uzcx9n.jpg",
+    "image":"",
+    "incAddress":"[\"14 Oxford St, London W1T 1BA, UK\",\"6 Tottenham Ct Rd, London W1T 1BG, UK\",\"4/5 Tottenham Ct Rd, London W1T 1BD, UK\",\"Crown Point Business Building, 39A Dean Street, London W1T 1UD, UK\",\"Located in England Lake House, 13 Hanway St, London W1T 1UD, UK\",\"22 Hanway St, London W1T 1UQ, UK\",\"20 Hanway St, London W1T 1UG, UK\",\"12 Hanway Pl, London W1T 1HD, UK\",\"4-5 Tottenham Ct Rd, London W1T 1BD, UK\",\"3 Hanway St, London W1T 1BA, UK\",\"1b Tottenham Ct Rd, London W1T 1BA, UK\",\"Kiosk Outside, 7 Tottenham Ct Rd, London W1D 1AL, UK\",\"4 Oxford St, London W1D 1AL, UK\",\"2d Oxford St, London W1D 1AN, UK\",\"14-16 Oxford St, London W1D 1AR, UK\",\"20 Oxford St, London W1D 2DP, UK\",\"30a Oxford St, London W1D 1AX, UK\",\"Ground & 1st Floors, Unit 3, 34-38 Oxford St, London W1D 1BB, UK\",\"44 Oxford St, London W1D 1AX, UK\",\"34-36 Oxford St, London W1D 1AU, UK\",\"24 Oxford St, London W1D 1AX, UK\",\"32 Oxford St, London W1D 1AX, UK\",\"3 Oxford St, London W1D 2JL, UK\",\"10 Oxford St, London W1D 1AN, UK\",\"8/10 Oxford St, London W1D 1AW, UK\",\"12 Oxford Street, London W1D 1AW, UK\",\"18 Oxford St, London W1D 2DP, UK\",\"14-28 Oxford St, London W1D 1AU, UK\",\"47-55 Hanway St, London W1D 1AX, UK\",\"The Tottenham, Hanway St, London, UK\",\"1 Tottenham Ct Rd, London W1T 1BA, UK\",\"1a, 1b Tottenham Ct Rd, London W1T 1BA, UK\",\"Tottenham Court Road, London W1D 1AX, UK\",\"012 Oxford St, London W1D 1AP, UK\",\"02 Oxford St, London W1D 1AL, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":64,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1299,51.5161 ]
+    },
+    "properties": {
+    "_id":"633f7c72c4dfcc98a83549e7",
+    "address":"3 Tottenham Ct Rd, London WC2H 0LA, UK",
+    "area":420.14,
+    "id":"poi.790274023059",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949888/NFT-%20Buildings-1/3_Tottenham_Ct_Rd_London_WC2H_0LA_UK_oubj6f.webp",
+    "image":"",
+    "incAddress":"[\"237 Charing Cross Rd, London WC1A 1BL, UK\",\"3 Tottenham Ct Rd, London WC2H 0LA, UK\",\"Tottenham Court Road, Oxford St, London W1T 7RJ, UK\",\"Unit R04, Centre Point, 11 St Giles Square, London WC2H 8AP, UK\",\"Arcade Food Hall, 103-105 New Oxford St, London WC1A 1DB, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":120,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1302,51.5169 ]
+    },
+    "properties": {
+    "_id":"633f7c99c4dfcc98a83549e9",
+    "address":"268-269 Tottenham Ct Rd, London W1T 7AQ, UK",
+    "area":806.35,
+    "id":"poi.403727015701",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949855/NFT-%20Buildings-1/268-269_Tottenham_Ct_Rd_London_W1T_7AQ_UK_ukwh5r.png",
+    "image":"",
+    "incAddress":"[\"266 Tottenham Ct Rd, London W1T 7RQ, UK\",\"265 Tottenham Ct Rd, London W1T 7RQ, UK\",\"1 Great Russell St, London WC1B 3ND, UK\",\"7 Great Russell St, London WC1B 3NH, UK\",\"268-269 Tottenham Ct Rd, London W1T 7AQ, UK\",\"267 Tottenham Ct Rd, London W1T 7RQ, UK\",\"5 Great Russell St, London WC1B 3BS, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":121,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1297,51.5169 ]
+    },
+    "properties": {
+    "_id":"633f7cd2c4dfcc98a83549eb",
+    "address":"16-22 Great Russell St, London WC1B 3NN, UK",
+    "area":2597.79,
+    "id":"poi.687194803893",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949781/NFT-%20Buildings-1/16-22_Great_Russell_St_London_WC1B_3NN_UK_m7vhpt.jpg",
+    "image":"",
+    "incAddress":"[\"7 Bainbridge St, London WC1A 1HP, UK\",\"268-269 Tottenham Ct Rd, London W1T 7AQ, UK\",\"7 Great Russell St, London WC1B 3NH, UK\",\"11 Great Russell St, London WC1B 3NH, UK\",\"14 Great Russell St, London WC1B 3NH, UK\",\"16-22 Great Russell St, London WC1B 3NN, UK\",\"5 Bainbridge St, London WC1A 1HD, UK\",\"116 Bainbridge St, London WC1A 1HD, UK\",\"Bainbridge House, Bainbridge St, London WC1A 1HP, UK\",\"10 Great Russell St, London WC1B 3NH, UK\",\"The Box Offices, 9 Great Russell St, London WC1B 3NH, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":122,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1299,51.5166 ]
+    },
+    "properties": {
+    "_id":"633f7d07c4dfcc98a83549ed",
+    "address":"279 Tottenham Ct Rd, London W1T 7RJ, UK",
+    "area":683.68,
+    "id":"poi.309237726800",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949735/NFT-%20Buildings-1/279_Tottenham_Ct_Rd_London_W1T_7RJ_UK_dnbfsk.jpg",
+    "image":"",
+    "incAddress":"[\"Second Floor Corinthian House, 279 Tottenham Ct Rd, London W1T 7RJ, UK\",\"118 New Oxford St, London WC1A 1HL, UK\",\"279 Tottenham Ct Rd, London W1T 7RJ, UK\",\"7 Bainbridge St, London WC1A 1HP, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":123,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1286,51.5168 ]
+    },
+    "properties": {
+    "_id":"633f7d3cc4dfcc98a83549ef",
+    "address":"110 New Oxford St, London WC1A 1HD, UK",
+    "area":2132.86,
+    "id":"poi.146028989397",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288663/NFT-%20Buildings-1/NFT_40_Starbucks_Coffee_112_116_New_Oxford_St_London_WC1A_1HH_UK_gqn6jx.jpg",
+    "image":"",
+    "incAddress":"[\"100 New Oxford St, London WC1A 1HB, UK\",\"106 New Oxford St, London WC1A 1HB, UK\",\"104 New Oxford St, London WC1A 1HB, UK\",\"110 New Oxford St, London WC1A 1HD, UK\",\"114 New Oxford St, London WC1A 1HH, UK\",\"112 New Oxford St, London WC1A 1HH, UK\",\"116 Bainbridge St, London WC1A 1HD, UK\",\"102 New Oxford St, London WC1B 3NN, UK\",\"102 Bainbridge St, London WC1A 1HB, UK\",\"100 Bainbridge St, London WC1A 1HB, UK\",\"82 Bainbridge St, London WC1A 1HB, UK\",\"2 Dyott St, London WC1A 1DE, UK\",\"78 New Oxford St, London WC1A 1HB, UK\",\"3rd, Fairgate House, 78 New Oxford St, London WC1A 1HB, UK\",\"Fairgate House, 78 New Oxford St, London WC1A 1HB, UK\",\"11 New Oxford St, London WC1A 1BA, UK\",\"80 New Oxford St, London WC1A 1HB, UK\",\"82 New Oxford St, London WC1A 1HB, UK\",\"116 New Oxford St, London WC1A 1HH, UK\",\"112 116 New Oxford St, London WC1A 1HH, UK\",\"112, 116 New Oxford St, London WC1A 1HH, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":65,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1284,51.5165 ]
+    },
+    "properties": {
+    "_id":"633f7d72c4dfcc98a83549f1",
+    "address":"79 New Oxford St, London WC1A 1DG, UK",
+    "area":1206.57,
+    "id":"poi.214748387923",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949738/NFT-%20Buildings-1/79_New_Oxford_St_London_WC1A_1DG_UK_vouuuj.jpg",
+    "image":"",
+    "incAddress":"[\"CASTLEWOOD HOUSE, 77/91 New Oxford St, London WC1A 1DG, UK\",\"71 New Oxford St, London WC1A 1DG, UK\",\"75 New Oxford St, London WC1A 1DG, UK\",\"Castlewood House, 77-91 New Oxford St, London WC1A 1DG, UK\",\"91 New Oxford St, London WC1A 1DG, UK\",\"83 New Oxford St, London WC1A 1DG, UK\",\"73 New Oxford St, London WC1A 1DG, UK\",\"79 New Oxford St, London WC1A 1DG, UK\",\"29 Bucknall St, London WC2H 8AJ, UK\",\"89 New Oxford St, London WC1A 1DG, UK\",\"77-91 New Oxford St, London WC1A 1DG, UK\",\"5 Earnshaw St, London WC2H 8AJ, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":124,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.128,51.5165 ]
+    },
+    "properties": {
+    "_id":"633f7d99c4dfcc98a83549f3",
+    "address":"75 New Oxford St, London WC1A 1DG, UK",
+    "area":361.15,
+    "id":"poi.317827679306",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949739/NFT-%20Buildings-1/75_New_Oxford_St_London_WC1A_1DG_UK_gkg6av.jpg",
+    "image":"",
+    "incAddress":"[\"73 New Oxford St, London WC1A 1DG, UK\",\"71 New Oxford St, London WC1A 1DG, UK\",\"75 New Oxford St, London WC1A 1DG, UK\",\"Castlewood House, 77/91 New Oxford St, London WC1A 1DG, UK\",\"Castlewood House, 77-91 New Oxford St, London WC1A 1DG, UK\",\"71-75 New Oxford St, London WC1A 1DG, UK\",\"2-4 Bucknall St, London WC1A 1DG, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":125,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1276,51.5165 ]
+    },
+    "properties": {
+    "_id":"633f7de6c4dfcc98a83549f7",
+    "address":"63-69 New Oxford St, London WC1A 1DG, UK",
+    "area":562.07,
+    "id":"address.2608280281371764",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949859/NFT-%20Buildings-1/63-69_New_Oxford_St_London_WC1A_1DG_UK_qyxkta.jpg",
+    "image":"",
+    "incAddress":"[\"63-69 New Oxford St, London WC1A 1DG, UK\",\"Call Centre, London, UK\",\"12 Dyott St, London WC1A 1BS, UK\",\"2-4 Bucknall St, London WC1A 1DG, UK\",\"8 Central Saint Giles Piazza, Bucknall St, London WC2H 8AB, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":126,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127,51.5167 ]
+    },
+    "properties": {
+    "_id":"633f7e0ac4dfcc98a83549f9",
+    "address":"55 New Oxford St, London WC1A 1BS, UK",
+    "area":639.27,
+    "id":"address.2608280281371764",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949747/NFT-%20Buildings-1/55_New_Oxford_St_London_WC1A_1BS_UK_elebr0.jpg",
+    "image":"",
+    "incAddress":"[\"57-59 New Oxford St, London WC1A 1BS, UK\",\"5th Floor, 55 New Oxford St, London WC1A 1BS, UK\",\"12 Dyott St, London WC1A 1BS, UK\",\"55 New Oxford St, London WC1A 1BS, UK\",\"Third Floor, 55 New Oxford St, London WC1A 1BS, UK\",\"247 Shaftesbury Ave, London WC2H 8EH, UK\",\"Turner House, 55 New Oxford St, London WC1A 1BS, UK\",\"Fourth Floor, 55 New Oxford St, London WC1A 1BS, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":127,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1267,51.5171 ]
+    },
+    "properties": {
+    "_id":"633f7e39c4dfcc98a83549fb",
+    "address":"56 New Oxford St, London WC1A 1HU, UK",
+    "area":516.28,
+    "id":"poi.953482774260",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949868/NFT-%20Buildings-1/56_New_Oxford_St_London_WC1A_1HU_UK_jzsyrp.png",
+    "image":"",
+    "incAddress":"[\"52-56 New Oxford St, London WC1A 1ES, UK\",\"2 Bloomsbury St, London WC1B 3SR, UK\",\"3 Stedham Pl, London WC1A 1HU, UK\",\"56 New Oxford St, London WC1A 1HU, UK\",\"52-54 New Oxford St, London WC1A 1ES, UK\",\"Bloomsbury Plaza, 56B New Oxford St, London WC1A 1ES, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":128,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1262,51.5171 ]
+    },
+    "properties": {
+    "_id":"633f7e77c4dfcc98a83549fd",
+    "address":"42-46_Oxford_St_London_W1D_1AU",
+    "area":220.16,
+    "id":"poi.678604897405",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288665/NFT-%20Buildings-1/NFT_36_Skechers_42-46_Oxford_St_London_W1D_1AU_UK_qzfutl.jpg",
+    "image":"",
+    "incAddress":"[\"44-48 New Oxford St, London WC1A 1ES, UK\",\"46-50 New Oxford St, London WC1A 1ES, UK\",\"1 Stedham Pl, London WC1A 1HU, UK\",\"52-54 New Oxford St, London WC1A 1ES, UK\",\"50 Coptic St, London WC1A 1ES, UK\",\"44 New Oxford St, London WC1A 1ES, UK\",\"46 New Oxford St, London WC1A 1ES, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":135,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1258,51.5172 ]
+    },
+    "properties": {
+    "_id":"633f7e90c4dfcc98a83549ff",
+    "address":"34 New Oxford St, London WC1A 1AP, UK",
+    "area":78.84,
+    "id":"poi.103079219585",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1672949727/NFT-%20Buildings-1/34_New_Oxford_St_London_WC1A_1AP_UK_g7bh0r.jpg",
+    "image":"",
+    "incAddress":"[\"42 New Oxford St, London WC1A 1EP, UK\",\"34 New Oxford St, London WC1A 1AP, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":129,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1451,51.5145 ]
+    },
+    "properties": {
+    "_id":"633f915ac4dfcc98a8354a01",
+    "address":"301-309 Oxford St, London W1D 1NB, UK",
+    "area":635.21,
+    "id":"poi.446676702171",
+    "image":"https://res.cloudinary.com/gameree/image/upload/v1666288699/NFT-%20Buildings-1/NFT_53_309_Oxford_Street_London_wkqa4c.jpg",
+    "image":"",
+    "incAddress":"[\"309 Oxford St, London W1C 2DZ, UK\",\"301-309 Oxford St, London W1D 1NB, UK\",\"3 Tenterden St, London W1S 1TD, UK\",\"2.01, 17 Hanover Square, London W1S 1BN, UK\",\"4 Tenterden St, London W1S 1TE, UK\",\"F1, 4 Tenterden St, London W1S 1TE, UK\"]",
+    "ownerAddress":"",
+    "ownerId":"",
+    "price":0.025,
+    "sequence":136,
+    "status":"",
+    "updatedAt":"2023-01-05T17:47:32.474Z"
+    }
+  }
+]
+}
+
+
